@@ -43,9 +43,9 @@ fetch('data.json')
         Classification: ${school.Classification}<br>
         <br>
         CSI Percentile: ${(school.CSI * 100).toFixed(2)}%<br>
-        Academic Efficiency: ${(school.AcademicEfficiency * 100).toFixed(2)}% <a href="#">(Upgrade for more)</a><br>
-        Market Saturation: ${(school.MarketSaturation * 100).toFixed(2)}% <a href="#">(Upgrade for more)</a><br>
-        aCFI: ${(school.aCFI * 100).toFixed(2)}% <a href="#">(Upgrade for more)</a><br>
+        Academic Efficiency: 🔒 <em>Upgrade to Tier 2 to access</em><br>
+        Market Saturation: 🔒 <em>Upgrade to Tier 2 to access</em><br>
+        aCFI: 🔒 <em>Upgrade to Tier 2 to access</em><br>
         <br>
         CSI is calculated using:<br>
         Financial Health (40.02%)<br>

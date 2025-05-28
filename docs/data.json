@@ -6,7 +6,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8208165482,
     "Rank":1,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":37.35394665,
     "Longitude":-79.1531533219
   },
@@ -17,7 +17,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8097958008,
     "Rank":2,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":43.0374605,
     "Longitude":-71.4478392192
   },
@@ -28,7 +28,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8102849067,
     "Rank":3,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.22259745,
     "Longitude":-73.2444672963
   },
@@ -39,7 +39,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8186772151,
     "Rank":4,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":32.07776915,
     "Longitude":-81.1009936572
   },
@@ -50,7 +50,7 @@
     "MarketSaturation":0.9190908016,
     "aCFI":0.9111516272,
     "Rank":5,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.36574325,
     "Longitude":-71.1222139421
   },
@@ -61,7 +61,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8132982626,
     "Rank":6,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.4529076,
     "Longitude":-76.4800842303
   },
@@ -72,7 +72,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8168217372,
     "Rank":7,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":29.19175315,
     "Longitude":-81.0495838746
   },
@@ -83,7 +83,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8105302476,
     "Rank":8,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":27.947357,
     "Longitude":-82.467766
   },
@@ -94,7 +94,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8158624185,
     "Rank":9,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":32.84180115,
     "Longitude":-96.7815281015
   },
@@ -105,7 +105,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8146306681,
     "Rank":10,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":31.55043405,
     "Longitude":-97.1102905568
   },
@@ -116,7 +116,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8247806283,
     "Rank":11,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.70456775,
     "Longitude":-86.2382202602
   },
@@ -127,7 +127,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8112243483,
     "Rank":12,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":32.7080148,
     "Longitude":-97.3611938534
   },
@@ -138,7 +138,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8106898872,
     "Rank":13,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":43.01711285,
     "Longitude":-76.1185536001
   },
@@ -149,7 +149,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8134080274,
     "Rank":14,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.3504215,
     "Longitude":-71.1032283183
   },
@@ -160,7 +160,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8076418416,
     "Rank":15,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":26.08757885,
     "Longitude":-80.1496885504
   },
@@ -171,7 +171,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8104348481,
     "Rank":16,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":25.71727245,
     "Longitude":-80.2787068733
   },
@@ -182,7 +182,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.835742872,
     "Rank":17,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.9991492,
     "Longitude":-87.6573704168
   },
@@ -193,7 +193,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8089071089,
     "Rank":18,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.9245803,
     "Longitude":-87.6507223007
   },
@@ -204,7 +204,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8090678993,
     "Rank":19,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":43.0826701,
     "Longitude":-77.6729321521
   },
@@ -215,7 +215,7 @@
     "MarketSaturation":0.9381479567,
     "aCFI":0.8487542141,
     "Rank":20,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":40.33867515,
     "Longitude":-74.6583654913
   },
@@ -226,7 +226,7 @@
     "MarketSaturation":0.998650102,
     "aCFI":0.8072374252,
     "Rank":21,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":40.7292053,
     "Longitude":-73.9950148129
   },
@@ -237,7 +237,7 @@
     "MarketSaturation":0.9848657268,
     "aCFI":0.6722014469,
     "Rank":22,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.3135727,
     "Longitude":-72.9231731
   },
@@ -248,7 +248,7 @@
     "MarketSaturation":0.9888722647,
     "aCFI":0.6782693298,
     "Rank":23,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":33.75012475,
     "Longitude":-84.4115889745
   },
@@ -259,7 +259,7 @@
     "MarketSaturation":0.9817378091,
     "aCFI":0.5858760248,
     "Rank":24,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":29.71679145,
     "Longitude":-95.4047811339
   },
@@ -270,7 +270,7 @@
     "MarketSaturation":0.9917037697,
     "aCFI":0.5388244208,
     "Rank":25,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.0557157,
     "Longitude":-87.6752945474
   },
@@ -281,7 +281,7 @@
     "MarketSaturation":0.984175458,
     "aCFI":0.5986526126,
     "Rank":26,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":37.43131385,
     "Longitude":-122.169365355
   },
@@ -292,7 +292,7 @@
     "MarketSaturation":0.9970239477,
     "aCFI":0.5000216336,
     "Rank":27,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":33.7969409,
     "Longitude":-84.3237146841
   },
@@ -303,7 +303,7 @@
     "MarketSaturation":0.9371524742,
     "aCFI":0.5845739928,
     "Rank":28,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":36.14380105,
     "Longitude":-86.802818891
   },
@@ -314,7 +314,7 @@
     "MarketSaturation":0.9382388782,
     "aCFI":0.5799385207,
     "Rank":29,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.8186395,
     "Longitude":-71.4088008717
   },
@@ -325,7 +325,7 @@
     "MarketSaturation":0.9875993394,
     "aCFI":0.5237068116,
     "Rank":30,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.3401702,
     "Longitude":-71.167045
   },
@@ -336,7 +336,7 @@
     "MarketSaturation":0.9920719136,
     "aCFI":0.5384472835,
     "Rank":31,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":36.0001557,
     "Longitude":-78.944229722
   },
@@ -347,7 +347,7 @@
     "MarketSaturation":0.9884792832,
     "aCFI":0.4973424015,
     "Rank":32,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":35.9720859,
     "Longitude":-79.9936582
   },
@@ -358,7 +358,7 @@
     "MarketSaturation":0.8365480724,
     "aCFI":0.6962089936,
     "Rank":33,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":34.51478935,
     "Longitude":-82.6387468771
   },
@@ -369,7 +369,7 @@
     "MarketSaturation":0.9771572672,
     "aCFI":0.5274785977,
     "Rank":34,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":37.3486243,
     "Longitude":-121.9365440054
   },
@@ -380,7 +380,7 @@
     "MarketSaturation":0.9917237926,
     "aCFI":0.4801007354,
     "Rank":35,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.15967565,
     "Longitude":-73.257403102
   },
@@ -391,7 +391,7 @@
     "MarketSaturation":0.991043618,
     "aCFI":0.4979045467,
     "Rank":36,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":39.33020225,
     "Longitude":-76.6218535786
   },
@@ -402,7 +402,7 @@
     "MarketSaturation":0.9972219573,
     "aCFI":0.4673891083,
     "Rank":37,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.33510525,
     "Longitude":-71.0892578747
   },
@@ -413,7 +413,7 @@
     "MarketSaturation":0.981597986,
     "aCFI":0.4690898843,
     "Rank":38,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":40.7255421,
     "Longitude":-73.7919066
   },
@@ -424,7 +424,7 @@
     "MarketSaturation":0.9294530432,
     "aCFI":0.4442691769,
     "Rank":39,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.29091365,
     "Longitude":-72.9626388369
   },
@@ -435,7 +435,7 @@
     "MarketSaturation":0.9722907676,
     "aCFI":0.4908007807,
     "Rank":40,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":44.94210585,
     "Longitude":-93.1894521972
   },
@@ -446,7 +446,7 @@
     "MarketSaturation":0.9918734097,
     "aCFI":0.4820211522,
     "Rank":41,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":36.1063398,
     "Longitude":-79.5027368293
   },
@@ -457,7 +457,7 @@
     "MarketSaturation":0.8973745988,
     "aCFI":0.58567342,
     "Rank":42,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":33.74508885,
     "Longitude":-84.4113832676
   },
@@ -468,7 +468,7 @@
     "MarketSaturation":0.9826178108,
     "aCFI":0.4488702844,
     "Rank":43,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":39.9569305,
     "Longitude":-75.1899265452
   },
@@ -479,7 +479,7 @@
     "MarketSaturation":0.9893809922,
     "aCFI":0.4620946059,
     "Rank":44,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":40.86173435,
     "Longitude":-73.886031693
   },
@@ -490,7 +490,7 @@
     "MarketSaturation":0.9422675696,
     "aCFI":0.4912259664,
     "Rank":45,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.40649125,
     "Longitude":-71.118007254
   },
@@ -501,7 +501,7 @@
     "MarketSaturation":0.9859740275,
     "aCFI":0.4679662097,
     "Rank":46,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":33.79338165,
     "Longitude":-117.851695946
   },
@@ -512,7 +512,7 @@
     "MarketSaturation":0.9493688362,
     "aCFI":0.4985589447,
     "Rank":47,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.41819485,
     "Longitude":-72.8931049147
   },
@@ -523,7 +523,7 @@
     "MarketSaturation":0.9750622655,
     "aCFI":0.471826782,
     "Rank":48,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":39.34835375,
     "Longitude":-76.6159318488
   },
@@ -534,7 +534,7 @@
     "MarketSaturation":0.8052138526,
     "aCFI":0.6681925678,
     "Rank":49,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":34.293036,
     "Longitude":-85.191740867
   },
@@ -545,7 +545,7 @@
     "MarketSaturation":0.9625496726,
     "aCFI":0.4890948653,
     "Rank":50,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":32.4301095,
     "Longitude":-85.7067335154
   },
@@ -556,7 +556,7 @@
     "MarketSaturation":0.9492543016,
     "aCFI":0.4725371983,
     "Rank":51,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":32.8289341,
     "Longitude":-83.6506702058
   },
@@ -567,7 +567,7 @@
     "MarketSaturation":0.9716598604,
     "aCFI":0.5021700685,
     "Rank":52,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":36.13278325,
     "Longitude":-86.7926577721
   },
@@ -578,7 +578,7 @@
     "MarketSaturation":0.8261009007,
     "aCFI":0.475373121,
     "Rank":53,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":32.7108312,
     "Longitude":-96.9467679725
   },
@@ -589,7 +589,7 @@
     "MarketSaturation":0.8797577199,
     "aCFI":0.5888578745,
     "Rank":54,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":47.60950425,
     "Longitude":-122.318798297
   },
@@ -600,7 +600,7 @@
     "MarketSaturation":0.9493522899,
     "aCFI":0.4694019139,
     "Rank":55,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":47.66710255,
     "Longitude":-117.4030545594
   },
@@ -611,7 +611,7 @@
     "MarketSaturation":0.9353891468,
     "aCFI":0.5044653119,
     "Rank":56,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":38.64724015,
     "Longitude":-90.3084017159
   },
@@ -622,7 +622,7 @@
     "MarketSaturation":0.8423764249,
     "aCFI":0.4632766203,
     "Rank":57,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":40.7448096,
     "Longitude":-74.0252392276
   },
@@ -633,7 +633,7 @@
     "MarketSaturation":0.8963158183,
     "aCFI":0.5064428986,
     "Rank":58,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":40.4441897,
     "Longitude":-79.9427191839
   },
@@ -644,7 +644,7 @@
     "MarketSaturation":0.9685812327,
     "aCFI":0.4980892657,
     "Rank":59,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":36.13389295,
     "Longitude":-80.2755577913
   },
@@ -655,7 +655,7 @@
     "MarketSaturation":0.9585206731,
     "aCFI":0.4805909281,
     "Rank":60,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":39.6783106,
     "Longitude":-104.9624727631
   },
@@ -666,7 +666,7 @@
     "MarketSaturation":0.9395883107,
     "aCFI":0.4550107083,
     "Rank":61,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":29.7368408,
     "Longitude":-95.3941719481
   },
@@ -677,7 +677,7 @@
     "MarketSaturation":0.7516811839,
     "aCFI":0.6722204675,
     "Rank":62,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.3582529,
     "Longitude":-71.0966272383
   },
@@ -688,7 +688,7 @@
     "MarketSaturation":0.9608916857,
     "aCFI":0.4527750379,
     "Rank":63,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":40.75201795,
     "Longitude":-74.239529137
   },
@@ -699,7 +699,7 @@
     "MarketSaturation":0.9191025703,
     "aCFI":0.4756167718,
     "Rank":64,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":33.553754,
     "Longitude":-86.751096
   },
@@ -710,7 +710,7 @@
     "MarketSaturation":0.9275685844,
     "aCFI":0.4729993966,
     "Rank":65,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":39.8407191,
     "Longitude":-86.1737494346
   },
@@ -721,7 +721,7 @@
     "MarketSaturation":0.9369252922,
     "aCFI":0.4467245124,
     "Rank":66,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":40.7111164,
     "Longitude":-74.0048044392
   },
@@ -732,7 +732,7 @@
     "MarketSaturation":0.8686742397,
     "aCFI":0.5144577665,
     "Rank":67,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":40.03575,
     "Longitude":-75.3401787
   },
@@ -743,7 +743,7 @@
     "MarketSaturation":0.9259762034,
     "aCFI":0.4750372391,
     "Rank":68,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.79139685,
     "Longitude":-87.6008438719
   },
@@ -754,7 +754,7 @@
     "MarketSaturation":0.7978631631,
     "aCFI":0.621005917,
     "Rank":69,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":29.4616913,
     "Longitude":-98.4835083483
   },
@@ -765,7 +765,7 @@
     "MarketSaturation":0.8800257822,
     "aCFI":0.4749024481,
     "Rank":70,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":39.73845985,
     "Longitude":-84.1791947801
   },
@@ -776,7 +776,7 @@
     "MarketSaturation":0.9673836114,
     "aCFI":0.4640267373,
     "Rank":71,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":29.4688466,
     "Longitude":-98.4691039097
   },
@@ -787,7 +787,7 @@
     "MarketSaturation":0.8660373675,
     "aCFI":0.473036808,
     "Rank":72,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.7298969,
     "Longitude":-73.67966782
   },
@@ -798,7 +798,7 @@
     "MarketSaturation":0.8967746793,
     "aCFI":0.490298474,
     "Rank":73,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.50138695,
     "Longitude":-81.600702166
   },
@@ -809,7 +809,7 @@
     "MarketSaturation":0.9254703683,
     "aCFI":0.4718998486,
     "Rank":74,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":29.95794375,
     "Longitude":-90.0778584625
   },
@@ -820,7 +820,7 @@
     "MarketSaturation":0.9224169576,
     "aCFI":0.451701226,
     "Rank":75,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.3483475,
     "Longitude":-71.084870403
   },
@@ -831,7 +831,7 @@
     "MarketSaturation":0.8212397468,
     "aCFI":0.4767352384,
     "Rank":76,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":28.064271,
     "Longitude":-80.6230040283
   },
@@ -842,7 +842,7 @@
     "MarketSaturation":0.714784152,
     "aCFI":0.7105111082,
     "Rank":77,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":37.9735131,
     "Longitude":-87.5322976572
   },
@@ -853,7 +853,7 @@
     "MarketSaturation":0.8463117715,
     "aCFI":0.5076704935,
     "Rank":78,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":40.80775585,
     "Longitude":-73.9616141157
   },
@@ -864,7 +864,7 @@
     "MarketSaturation":0.896614825,
     "aCFI":0.5178785109,
     "Rank":79,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":32.4699728,
     "Longitude":-99.7073595484
   },
@@ -875,7 +875,7 @@
     "MarketSaturation":0.8823899692,
     "aCFI":0.4753133861,
     "Rank":80,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":40.71690825,
     "Longitude":-73.6000224504
   },
@@ -886,7 +886,7 @@
     "MarketSaturation":0.8704053163,
     "aCFI":0.4701763279,
     "Rank":81,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":29.7532075595,
     "Longitude":-95.5330424264
   },
@@ -897,7 +897,7 @@
     "MarketSaturation":0.8688734169,
     "aCFI":0.4659212126,
     "Rank":82,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":39.4272656,
     "Longitude":-76.7765076197
   },
@@ -908,7 +908,7 @@
     "MarketSaturation":0.8581856718,
     "aCFI":0.4608801959,
     "Rank":83,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.274315,
     "Longitude":-71.8084567455
   },
@@ -919,7 +919,7 @@
     "MarketSaturation":0.7486377662,
     "aCFI":0.6203105736,
     "Rank":84,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":37.577415,
     "Longitude":-77.539478
   },
@@ -930,7 +930,7 @@
     "MarketSaturation":0.8037087722,
     "aCFI":0.4491346965,
     "Rank":85,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":26.3837711,
     "Longitude":-80.1254027682
   },
@@ -941,7 +941,7 @@
     "MarketSaturation":0.7981321848,
     "aCFI":0.4502539324,
     "Rank":86,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":28.3385394,
     "Longitude":-82.2580705436
   },
@@ -952,7 +952,7 @@
     "MarketSaturation":0.9525653731,
     "aCFI":0.4332406849,
     "Rank":87,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.8742404,
     "Longitude":-87.6247913
   },
@@ -963,7 +963,7 @@
     "MarketSaturation":0.9420661608,
     "aCFI":0.4448795333,
     "Rank":88,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.8002648,
     "Longitude":-72.7141205484
   },
@@ -974,7 +974,7 @@
     "MarketSaturation":0.8319080588,
     "aCFI":0.4755854979,
     "Rank":89,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.8442938,
     "Longitude":-71.4354886252
   },
@@ -985,7 +985,7 @@
     "MarketSaturation":0.8250477591,
     "aCFI":0.444705853,
     "Rank":90,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":33.9283239,
     "Longitude":-117.4259206206
   },
@@ -996,7 +996,7 @@
     "MarketSaturation":0.7939962138,
     "aCFI":0.5153332737,
     "Rank":91,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.7867245,
     "Longitude":-86.0996426716
   },
@@ -1007,7 +1007,7 @@
     "MarketSaturation":0.764574922,
     "aCFI":0.5504694654,
     "Rank":92,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.5559033,
     "Longitude":-72.6559883789
   },
@@ -1018,7 +1018,7 @@
     "MarketSaturation":0.778439535,
     "aCFI":0.483552702,
     "Rank":93,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.3834189,
     "Longitude":-71.2225864286
   },
@@ -1029,7 +1029,7 @@
     "MarketSaturation":0.9299895727,
     "aCFI":0.4949182742,
     "Rank":94,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":38.635359,
     "Longitude":-90.2318432684
   },
@@ -1040,7 +1040,7 @@
     "MarketSaturation":0.8834372432,
     "aCFI":0.4654811482,
     "Rank":95,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":31.06868225,
     "Longitude":-97.4648293724
   },
@@ -1051,7 +1051,7 @@
     "MarketSaturation":0.7685658185,
     "aCFI":0.5162305452,
     "Rank":96,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":44.4640025,
     "Longitude":-93.1871790882
   },
@@ -1062,7 +1062,7 @@
     "MarketSaturation":0.6418317106,
     "aCFI":0.468358893,
     "Rank":97,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":36.79932065,
     "Longitude":-76.1944004677
   },
@@ -1073,7 +1073,7 @@
     "MarketSaturation":0.8629057923,
     "aCFI":0.4500097002,
     "Rank":98,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":43.129864,
     "Longitude":-77.6287839925
   },
@@ -1084,7 +1084,7 @@
     "MarketSaturation":0.7587999969,
     "aCFI":0.4799054855,
     "Rank":99,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.722007,
     "Longitude":-73.9343835632
   },
@@ -1095,7 +1095,7 @@
     "MarketSaturation":0.6027696427,
     "aCFI":0.6638559786,
     "Rank":100,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":35.5032193,
     "Longitude":-80.8339302761
   },
@@ -1106,7 +1106,7 @@
     "MarketSaturation":0.5002011786,
     "aCFI":0.8180874378,
     "Rank":101,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":37.39874285,
     "Longitude":-79.1840478784
   },
@@ -1117,7 +1117,7 @@
     "MarketSaturation":0.7799282722,
     "aCFI":0.5079560819,
     "Rank":102,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":41.26585655,
     "Longitude":-95.9450555352
   },
@@ -1128,7 +1128,7 @@
     "MarketSaturation":0.7694706349,
     "aCFI":0.5703350894,
     "Rank":103,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":32.73306755,
     "Longitude":-97.2801339922
   },
@@ -1139,7 +1139,7 @@
     "MarketSaturation":0.7648026156,
     "aCFI":0.4449040041,
     "Rank":104,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.66688065,
     "Longitude":-71.1229217769
   },
@@ -1150,7 +1150,7 @@
     "MarketSaturation":0.4926867215,
     "aCFI":0.7584386651,
     "Rank":105,
-    "Classification":"Critical",
+    "Classification":"Elite",
     "Latitude":42.7130236,
     "Longitude":-73.2030082
   },
@@ -1161,7 +1161,7 @@
     "MarketSaturation":0.7282412543,
     "aCFI":0.4749349778,
     "Rank":106,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.3521996,
     "Longitude":-71.0656808
   },
@@ -1172,7 +1172,7 @@
     "MarketSaturation":0.7528807679,
     "aCFI":0.4885556997,
     "Rank":107,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":26.7048899,
     "Longitude":-80.0508515834
   },
@@ -1183,7 +1183,7 @@
     "MarketSaturation":0.7110772912,
     "aCFI":0.4369076254,
     "Rank":108,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":28.03048365,
     "Longitude":-81.9180090569
   },
@@ -1194,7 +1194,7 @@
     "MarketSaturation":0.7549434483,
     "aCFI":0.44396547,
     "Rank":109,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.3567011,
     "Longitude":-71.0610577644
   },
@@ -1205,7 +1205,7 @@
     "MarketSaturation":0.7141225341,
     "aCFI":0.4779522052,
     "Rank":110,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":39.7540491,
     "Longitude":-83.8170518292
   },
@@ -1216,7 +1216,7 @@
     "MarketSaturation":0.7902609092,
     "aCFI":0.4402973478,
     "Rank":111,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":30.3537227,
     "Longitude":-81.6073060541
   },
@@ -1227,7 +1227,7 @@
     "MarketSaturation":0.6730290224,
     "aCFI":0.4786433148,
     "Rank":112,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.92209145,
     "Longitude":-71.537151735
   },
@@ -1238,7 +1238,7 @@
     "MarketSaturation":0.785265954,
     "aCFI":0.4473524254,
     "Rank":113,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.73547915,
     "Longitude":-73.9970708836
   },
@@ -1249,7 +1249,7 @@
     "MarketSaturation":0.670719382,
     "aCFI":0.5400556896,
     "Rank":114,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.9588852,
     "Longitude":-76.8819128245
   },
@@ -1260,7 +1260,7 @@
     "MarketSaturation":0.5653351145,
     "aCFI":0.5091387383,
     "Rank":115,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.7617103,
     "Longitude":-84.1605503222
   },
@@ -1271,7 +1271,7 @@
     "MarketSaturation":0.7576924198,
     "aCFI":0.457918498,
     "Rank":116,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":39.8118912,
     "Longitude":-86.2042657641
   },
@@ -1282,7 +1282,7 @@
     "MarketSaturation":0.7065645346,
     "aCFI":0.4937889812,
     "Rank":117,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":28.5925001,
     "Longitude":-81.3489577
   },
@@ -1293,7 +1293,7 @@
     "MarketSaturation":0.6293976244,
     "aCFI":0.5639204474,
     "Rank":118,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.23668645,
     "Longitude":-71.8070248371
   },
@@ -1304,7 +1304,7 @@
     "MarketSaturation":0.3342950597,
     "aCFI":0.8782094231,
     "Rank":119,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":38.37222595,
     "Longitude":-97.6419499563
   },
@@ -1315,7 +1315,7 @@
     "MarketSaturation":0.7402009019,
     "aCFI":0.4785166142,
     "Rank":120,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":43.04576595,
     "Longitude":-87.9079361466
   },
@@ -1326,7 +1326,7 @@
     "MarketSaturation":0.4244727342,
     "aCFI":0.792748816,
     "Rank":121,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.75111985,
     "Longitude":-92.7198486328
   },
@@ -1337,7 +1337,7 @@
     "MarketSaturation":0.5738457255,
     "aCFI":0.4832828016,
     "Rank":122,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":36.73674315,
     "Longitude":-84.1628616696
   },
@@ -1348,7 +1348,7 @@
     "MarketSaturation":0.7409122689,
     "aCFI":0.4805949356,
     "Rank":123,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.27941055,
     "Longitude":-74.0068021999
   },
@@ -1359,7 +1359,7 @@
     "MarketSaturation":0.5856634017,
     "aCFI":0.6155747814,
     "Rank":124,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.29571765,
     "Longitude":-82.2215695926
   },
@@ -1370,7 +1370,7 @@
     "MarketSaturation":0.840407204,
     "aCFI":0.3962208229,
     "Rank":125,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":33.74737405,
     "Longitude":-84.416095062
   },
@@ -1381,7 +1381,7 @@
     "MarketSaturation":0.6786885382,
     "aCFI":0.4970653161,
     "Rank":126,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.36650945,
     "Longitude":-71.2580196484
   },
@@ -1392,7 +1392,7 @@
     "MarketSaturation":0.7219093078,
     "aCFI":0.4889880068,
     "Rank":127,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.02156265,
     "Longitude":-73.8744642529
   },
@@ -1403,7 +1403,7 @@
     "MarketSaturation":0.7071633238,
     "aCFI":0.4690056881,
     "Rank":128,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":28.0304561,
     "Longitude":-81.9455425115
   },
@@ -1414,7 +1414,7 @@
     "MarketSaturation":0.6952374179,
     "aCFI":0.4708473387,
     "Rank":129,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":25.92128605,
     "Longitude":-80.2564809132
   },
@@ -1425,7 +1425,7 @@
     "MarketSaturation":0.6851937722,
     "aCFI":0.5003379848,
     "Rank":130,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.37913335,
     "Longitude":-72.106530615
   },
@@ -1436,7 +1436,7 @@
     "MarketSaturation":0.5836759771,
     "aCFI":0.603204137,
     "Rank":131,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":44.4612233,
     "Longitude":-93.1557163
   },
@@ -1447,7 +1447,7 @@
     "MarketSaturation":0.7731729354,
     "aCFI":0.4516324789,
     "Rank":132,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.7197638,
     "Longitude":-73.651971854
   },
@@ -1458,7 +1458,7 @@
     "MarketSaturation":0.603858482,
     "aCFI":0.4983806474,
     "Rank":133,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":36.0508252,
     "Longitude":-95.9521355284
   },
@@ -1469,7 +1469,7 @@
     "MarketSaturation":0.4832565023,
     "aCFI":0.6939365965,
     "Rank":134,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.29177605,
     "Longitude":-71.3032751636
   },
@@ -1480,7 +1480,7 @@
     "MarketSaturation":0.6073894412,
     "aCFI":0.4339001586,
     "Rank":135,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.89807275,
     "Longitude":-74.0307211403
   },
@@ -1491,7 +1491,7 @@
     "MarketSaturation":0.7639250876,
     "aCFI":0.4592702255,
     "Rank":136,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.90289665,
     "Longitude":-87.8226265681
   },
@@ -1502,7 +1502,7 @@
     "MarketSaturation":0.4526730895,
     "aCFI":0.7274062223,
     "Rank":137,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.3703768,
     "Longitude":-72.5160691823
   },
@@ -1513,7 +1513,7 @@
     "MarketSaturation":0.2975237983,
     "aCFI":0.8146087157,
     "Rank":138,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":39.754933,
     "Longitude":-75.658317
   },
@@ -1524,7 +1524,7 @@
     "MarketSaturation":0.6844700596,
     "aCFI":0.4836518658,
     "Rank":139,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.55406905,
     "Longitude":-70.8441366229
   },
@@ -1535,7 +1535,7 @@
     "MarketSaturation":0.5412419915,
     "aCFI":0.6073476135,
     "Rank":140,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":37.7869705,
     "Longitude":-79.4413852
   },
@@ -1546,7 +1546,7 @@
     "MarketSaturation":0.7079657871,
     "aCFI":0.4462007695,
     "Rank":141,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.65046815,
     "Longitude":-71.2602329852
   },
@@ -1557,7 +1557,7 @@
     "MarketSaturation":0.5851589612,
     "aCFI":0.5556510621,
     "Rank":142,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.8154037,
     "Longitude":-75.5395815591
   },
@@ -1568,7 +1568,7 @@
     "MarketSaturation":0.388586676,
     "aCFI":0.8297978913,
     "Rank":143,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":37.57153635,
     "Longitude":-84.2897960447
   },
@@ -1579,7 +1579,7 @@
     "MarketSaturation":0.6188491611,
     "aCFI":0.4917009175,
     "Rank":144,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":34.0430103,
     "Longitude":-118.7093458933
   },
@@ -1590,7 +1590,7 @@
     "MarketSaturation":0.628729001,
     "aCFI":0.455784644,
     "Rank":145,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.754829,
     "Longitude":-88.3495035864
   },
@@ -1601,7 +1601,7 @@
     "MarketSaturation":0.5103657893,
     "aCFI":0.607374754,
     "Rank":146,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.07300505,
     "Longitude":-82.52248588
   },
@@ -1612,7 +1612,7 @@
     "MarketSaturation":0.7113562707,
     "aCFI":0.4669151797,
     "Rank":147,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":29.89194365,
     "Longitude":-81.3215685539
   },
@@ -1623,7 +1623,7 @@
     "MarketSaturation":0.6077004668,
     "aCFI":0.5679321397,
     "Rank":148,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":34.92577435,
     "Longitude":-82.4385258125
   },
@@ -1634,7 +1634,7 @@
     "MarketSaturation":0.5459230071,
     "aCFI":0.5179825327,
     "Rank":149,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.29914,
     "Longitude":-71.2622114
   },
@@ -1645,7 +1645,7 @@
     "MarketSaturation":0.479857902,
     "aCFI":0.4527477643,
     "Rank":150,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.84898065,
     "Longitude":-73.9298402605
   },
@@ -1656,7 +1656,7 @@
     "MarketSaturation":0.6953884638,
     "aCFI":0.4684440888,
     "Rank":151,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":39.1513078,
     "Longitude":-84.4708347147
   },
@@ -1667,7 +1667,7 @@
     "MarketSaturation":0.6910486138,
     "aCFI":0.435779154,
     "Rank":152,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":35.223787,
     "Longitude":-80.841141
   },
@@ -1678,7 +1678,7 @@
     "MarketSaturation":0.5850732565,
     "aCFI":0.552966395,
     "Rank":153,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":38.8480439,
     "Longitude":-104.8239509314
   },
@@ -1689,7 +1689,7 @@
     "MarketSaturation":0.6062322724,
     "aCFI":0.5007885755,
     "Rank":154,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.41970355,
     "Longitude":-76.4983348473
   },
@@ -1700,7 +1700,7 @@
     "MarketSaturation":0.6757470957,
     "aCFI":0.5019968605,
     "Rank":155,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":29.45223455,
     "Longitude":-98.5646074726
   },
@@ -1711,7 +1711,7 @@
     "MarketSaturation":0.6483262424,
     "aCFI":0.4587508676,
     "Rank":156,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.6981131,
     "Longitude":-89.6155138621
   },
@@ -1722,7 +1722,7 @@
     "MarketSaturation":0.6333169545,
     "aCFI":0.4657819962,
     "Rank":157,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.7192659,
     "Longitude":-73.7511920123
   },
@@ -1733,7 +1733,7 @@
     "MarketSaturation":0.6849059074,
     "aCFI":0.4580581632,
     "Rank":158,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":34.9871011,
     "Longitude":-80.437314922
   },
@@ -1744,7 +1744,7 @@
     "MarketSaturation":0.6407973542,
     "aCFI":0.4531943952,
     "Rank":159,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":32.7169659,
     "Longitude":-117.2510853
   },
@@ -1755,7 +1755,7 @@
     "MarketSaturation":0.5855130355,
     "aCFI":0.5344808801,
     "Rank":160,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":34.96115815,
     "Longitude":-81.9353216093
   },
@@ -1766,7 +1766,7 @@
     "MarketSaturation":0.5911535657,
     "aCFI":0.5212633246,
     "Rank":161,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.9320314,
     "Longitude":-85.5803640219
   },
@@ -1777,7 +1777,7 @@
     "MarketSaturation":0.569039391,
     "aCFI":0.5883279371,
     "Rank":162,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.8812522,
     "Longitude":-87.6269744819
   },
@@ -1788,7 +1788,7 @@
     "MarketSaturation":0.6561097081,
     "aCFI":0.4801805485,
     "Rank":163,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":37.98042375,
     "Longitude":-121.3128471983
   },
@@ -1799,7 +1799,7 @@
     "MarketSaturation":0.6702389268,
     "aCFI":0.4969274999,
     "Rank":164,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":47.75418125,
     "Longitude":-117.4178864635
   },
@@ -1810,7 +1810,7 @@
     "MarketSaturation":0.2877097504,
     "aCFI":0.854104512,
     "Rank":165,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":38.0761894,
     "Longitude":-97.3433938748
   },
@@ -1821,7 +1821,7 @@
     "MarketSaturation":0.5927801094,
     "aCFI":0.5243140794,
     "Rank":166,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":30.6371513,
     "Longitude":-97.6627409761
   },
@@ -1832,7 +1832,7 @@
     "MarketSaturation":0.6952311341,
     "aCFI":0.4488407521,
     "Rank":167,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":44.9662364,
     "Longitude":-93.2411046614
   },
@@ -1843,7 +1843,7 @@
     "MarketSaturation":0.5383507287,
     "aCFI":0.5613621646,
     "Rank":168,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.6986835,
     "Longitude":-75.2092460465
   },
@@ -1854,7 +1854,7 @@
     "MarketSaturation":0.5984900988,
     "aCFI":0.4603047408,
     "Rank":169,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":33.90686,
     "Longitude":-118.0152171907
   },
@@ -1865,7 +1865,7 @@
     "MarketSaturation":0.5685302785,
     "aCFI":0.5478433659,
     "Rank":170,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":44.9376942,
     "Longitude":-93.1692917441
   },
@@ -1876,7 +1876,7 @@
     "MarketSaturation":0.6390877244,
     "aCFI":0.5049688835,
     "Rank":171,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.820249,
     "Longitude":-73.5967133364
   },
@@ -1887,7 +1887,7 @@
     "MarketSaturation":0.5184283218,
     "aCFI":0.580327649,
     "Rank":172,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":46.0705665,
     "Longitude":-118.3303177501
   },
@@ -1898,7 +1898,7 @@
     "MarketSaturation":0.6070874783,
     "aCFI":0.5142189859,
     "Rank":173,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.74715485,
     "Longitude":-72.6901199473
   },
@@ -1909,7 +1909,7 @@
     "MarketSaturation":0.6941782363,
     "aCFI":0.4656718322,
     "Rank":174,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":34.0998636,
     "Longitude":-117.7726224706
   },
@@ -1920,7 +1920,7 @@
     "MarketSaturation":0.6203732868,
     "aCFI":0.4844869122,
     "Rank":175,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.703244,
     "Longitude":-73.990655
   },
@@ -1931,7 +1931,7 @@
     "MarketSaturation":0.6476495661,
     "aCFI":0.4603753609,
     "Rank":176,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.33657245,
     "Longitude":-71.0953729508
   },
@@ -1942,7 +1942,7 @@
     "MarketSaturation":0.531056724,
     "aCFI":0.5646218674,
     "Rank":177,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.31622385,
     "Longitude":-72.640393152
   },
@@ -1953,7 +1953,7 @@
     "MarketSaturation":0.4039145459,
     "aCFI":0.6912975338,
     "Rank":178,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":43.90869735,
     "Longitude":-69.9614228113
   },
@@ -1964,7 +1964,7 @@
     "MarketSaturation":0.5565163401,
     "aCFI":0.4666159304,
     "Rank":179,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.376755,
     "Longitude":-80.6219314152
   },
@@ -1975,7 +1975,7 @@
     "MarketSaturation":0.5861543771,
     "aCFI":0.4749473056,
     "Rank":180,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.89711725,
     "Longitude":-87.9469201145
   },
@@ -1986,7 +1986,7 @@
     "MarketSaturation":0.6929768233,
     "aCFI":0.4639256506,
     "Rank":181,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":32.9826445,
     "Longitude":-80.0710966161
   },
@@ -1997,7 +1997,7 @@
     "MarketSaturation":0.5551879981,
     "aCFI":0.5636028929,
     "Rank":182,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":39.63804945,
     "Longitude":-86.8668736575
   },
@@ -2008,7 +2008,7 @@
     "MarketSaturation":0.5944528173,
     "aCFI":0.4769876741,
     "Rank":183,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":27.36000665,
     "Longitude":-82.5464064763
   },
@@ -2019,7 +2019,7 @@
     "MarketSaturation":0.4991405764,
     "aCFI":0.5947730496,
     "Rank":184,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.25532845,
     "Longitude":-72.569668844
   },
@@ -2030,7 +2030,7 @@
     "MarketSaturation":0.6146161455,
     "aCFI":0.4378441068,
     "Rank":185,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":33.62261335,
     "Longitude":-112.1826058202
   },
@@ -2041,7 +2041,7 @@
     "MarketSaturation":0.6173291897,
     "aCFI":0.4522367804,
     "Rank":186,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":47.14375725,
     "Longitude":-122.4443888659
   },
@@ -2052,7 +2052,7 @@
     "MarketSaturation":0.5984554797,
     "aCFI":0.4812233189,
     "Rank":187,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":43.00395265,
     "Longitude":-88.2292640893
   },
@@ -2063,7 +2063,7 @@
     "MarketSaturation":0.5147895359,
     "aCFI":0.5708674854,
     "Rank":188,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":34.12719495,
     "Longitude":-118.2099202999
   },
@@ -2074,7 +2074,7 @@
     "MarketSaturation":0.6215323798,
     "aCFI":0.4176414421,
     "Rank":189,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":40.279176,
     "Longitude":-74.733827
   },
@@ -2085,7 +2085,7 @@
     "MarketSaturation":0.5503695058,
     "aCFI":0.4589680182,
     "Rank":190,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.60277235,
     "Longitude":-88.082213828
   },
@@ -2096,7 +2096,7 @@
     "MarketSaturation":0.5270625197,
     "aCFI":0.5448257506,
     "Rank":191,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.686786,
     "Longitude":-73.8956971
   },
@@ -2107,7 +2107,7 @@
     "MarketSaturation":0.5725439301,
     "aCFI":0.4719734181,
     "Rank":192,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":36.20463525,
     "Longitude":-86.299713701
   },
@@ -2118,7 +2118,7 @@
     "MarketSaturation":0.5690024786,
     "aCFI":0.4641244226,
     "Rank":193,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":32.8487635,
     "Longitude":-96.9225676337
   },
@@ -2129,7 +2129,7 @@
     "MarketSaturation":0.5550522909,
     "aCFI":0.5143269559,
     "Rank":194,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":32.4777117,
     "Longitude":-99.7341575938
   },
@@ -2140,7 +2140,7 @@
     "MarketSaturation":0.4671749439,
     "aCFI":0.4870630847,
     "Rank":195,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":44.9497767,
     "Longitude":-93.1573162675
   },
@@ -2151,7 +2151,7 @@
     "MarketSaturation":0.4865944205,
     "aCFI":0.5632515069,
     "Rank":196,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.86963745,
     "Longitude":-88.0975552495
   },
@@ -2162,7 +2162,7 @@
     "MarketSaturation":0.4086837105,
     "aCFI":0.6621373326,
     "Rank":197,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":34.0999577,
     "Longitude":-117.7061791541
   },
@@ -2173,7 +2173,7 @@
     "MarketSaturation":0.6232390504,
     "aCFI":0.4458808522,
     "Rank":198,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":36.10507165,
     "Longitude":-86.7986409182
   },
@@ -2184,7 +2184,7 @@
     "MarketSaturation":0.2646466159,
     "aCFI":0.8575607783,
     "Rank":199,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":38.13468465,
     "Longitude":-97.4339183374
   },
@@ -2195,7 +2195,7 @@
     "MarketSaturation":0.5489685049,
     "aCFI":0.5340904051,
     "Rank":200,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":37.29778755,
     "Longitude":-80.0549996254
   },
@@ -2206,7 +2206,7 @@
     "MarketSaturation":0.5956318694,
     "aCFI":0.4468826263,
     "Rank":201,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":34.2852622,
     "Longitude":-81.6216373559
   },
@@ -2217,7 +2217,7 @@
     "MarketSaturation":0.576586119,
     "aCFI":0.4540390644,
     "Rank":202,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":25.9175201,
     "Longitude":-80.2706854411
   },
@@ -2228,7 +2228,7 @@
     "MarketSaturation":0.3328019803,
     "aCFI":0.5172555704,
     "Rank":203,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":42.6405657,
     "Longitude":-95.2096979581
   },
@@ -2239,7 +2239,7 @@
     "MarketSaturation":0.5483613069,
     "aCFI":0.4947242942,
     "Rank":204,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.5015277,
     "Longitude":-90.5503698708
   },
@@ -2250,7 +2250,7 @@
     "MarketSaturation":0.6002102593,
     "aCFI":0.4642711078,
     "Rank":205,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":39.58516815,
     "Longitude":-77.003727587
   },
@@ -2261,7 +2261,7 @@
     "MarketSaturation":0.5587689369,
     "aCFI":0.5098636346,
     "Rank":206,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":43.0987178535,
     "Longitude":-73.784228565
   },
@@ -2272,7 +2272,7 @@
     "MarketSaturation":0.5337112518,
     "aCFI":0.540855435,
     "Rank":207,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":41.70747445,
     "Longitude":-86.2562801108
   },
@@ -2283,7 +2283,7 @@
     "MarketSaturation":0.6238347412,
     "aCFI":0.4375706751,
     "Rank":208,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":33.749291,
     "Longitude":-84.414452
   },
@@ -2294,7 +2294,7 @@
     "MarketSaturation":0.6016277129,
     "aCFI":0.4555430067,
     "Rank":209,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":39.68056055,
     "Longitude":-77.3465509415
   },
@@ -2305,7 +2305,7 @@
     "MarketSaturation":0.273659244,
     "aCFI":0.7953188239,
     "Rank":210,
-    "Classification":"Severe Risk",
+    "Classification":"Strong",
     "Latitude":32.77421735,
     "Longitude":-103.1892648731
   },
@@ -2316,7 +2316,7 @@
     "MarketSaturation":0.4845852849,
     "aCFI":0.5599300704,
     "Rank":211,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":44.5684775,
     "Longitude":-69.6600256515
   },
@@ -2327,7 +2327,7 @@
     "MarketSaturation":0.4662407528,
     "aCFI":0.4535253252,
     "Rank":212,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":38.60868085,
     "Longitude":-89.8152166146
   },
@@ -2338,7 +2338,7 @@
     "MarketSaturation":0.5501307433,
     "aCFI":0.4726298815,
     "Rank":213,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.8094864,
     "Longitude":-73.9635509761
   },
@@ -2349,7 +2349,7 @@
     "MarketSaturation":0.5746369443,
     "aCFI":0.4404466907,
     "Rank":214,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":38.9054445,
     "Longitude":-77.127681843
   },
@@ -2360,7 +2360,7 @@
     "MarketSaturation":0.5529138559,
     "aCFI":0.4587031993,
     "Rank":215,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":29.9356364,
     "Longitude":-90.1204515552
   },
@@ -2371,7 +2371,7 @@
     "MarketSaturation":0.5326657428,
     "aCFI":0.445424061,
     "Rank":216,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.7276245,
     "Longitude":-74.0721678537
   },
@@ -2382,7 +2382,7 @@
     "MarketSaturation":0.5425846346,
     "aCFI":0.479857672,
     "Rank":217,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":42.05997765,
     "Longitude":-71.0793257058
   },
@@ -2393,7 +2393,7 @@
     "MarketSaturation":0.6056411672,
     "aCFI":0.4717186966,
     "Rank":218,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":27.71426575,
     "Longitude":-82.6855431835
   },
@@ -2404,7 +2404,7 @@
     "MarketSaturation":0.2999385814,
     "aCFI":0.8145914842,
     "Rank":219,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":42.426287,
     "Longitude":-78.1554628922
   },
@@ -2415,7 +2415,7 @@
     "MarketSaturation":0.559791883,
     "aCFI":0.4465453953,
     "Rank":220,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":34.8718605,
     "Longitude":-82.365179848
   },
@@ -2426,7 +2426,7 @@
     "MarketSaturation":0.6244358707,
     "aCFI":0.4077854744,
     "Rank":221,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.70792405,
     "Longitude":-87.71463118
   },
@@ -2437,7 +2437,7 @@
     "MarketSaturation":0.6486406595,
     "aCFI":0.4561025567,
     "Rank":222,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.87990865,
     "Longitude":-87.6249023738
   },
@@ -2448,7 +2448,7 @@
     "MarketSaturation":0.478937884,
     "aCFI":0.5430844859,
     "Rank":223,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":30.03127035,
     "Longitude":-99.1302464745
   },
@@ -2459,7 +2459,7 @@
     "MarketSaturation":0.3880162423,
     "aCFI":0.5562610545,
     "Rank":224,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.292858,
     "Longitude":-83.0642762545
   },
@@ -2470,7 +2470,7 @@
     "MarketSaturation":0.424789768,
     "aCFI":0.6038574221,
     "Rank":225,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":43.0537974,
     "Longitude":-75.4069389438
   },
@@ -2481,7 +2481,7 @@
     "MarketSaturation":0.3734749128,
     "aCFI":0.4541708425,
     "Rank":226,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":44.88413435,
     "Longitude":-93.7425643312
   },
@@ -2492,7 +2492,7 @@
     "MarketSaturation":0.5663126955,
     "aCFI":0.4620064271,
     "Rank":227,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":45.44850495,
     "Longitude":-122.6700383929
   },
@@ -2503,7 +2503,7 @@
     "MarketSaturation":0.5267588671,
     "aCFI":0.4842670575,
     "Rank":228,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":32.3354174,
     "Longitude":-90.3318823845
   },
@@ -2514,7 +2514,7 @@
     "MarketSaturation":0.5332618193,
     "aCFI":0.5093263509,
     "Rank":229,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":39.9474471,
     "Longitude":-76.7267984442
   },
@@ -2525,7 +2525,7 @@
     "MarketSaturation":0.5399768624,
     "aCFI":0.456723235,
     "Rank":230,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":34.22655655,
     "Longitude":-118.8785216793
   },
@@ -2536,7 +2536,7 @@
     "MarketSaturation":0.5182925527,
     "aCFI":0.4378275393,
     "Rank":231,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.83616405,
     "Longitude":-87.6264722775
   },
@@ -2547,7 +2547,7 @@
     "MarketSaturation":0.5202499542,
     "aCFI":0.4917853091,
     "Rank":232,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.60307425,
     "Longitude":-93.655275318
   },
@@ -2558,7 +2558,7 @@
     "MarketSaturation":0.4284140792,
     "aCFI":0.5728737836,
     "Rank":233,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":36.1523306,
     "Longitude":-95.9459602388
   },
@@ -2569,7 +2569,7 @@
     "MarketSaturation":0.4710751678,
     "aCFI":0.4555168761,
     "Rank":234,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":30.8151379,
     "Longitude":-83.9643526233
   },
@@ -2580,7 +2580,7 @@
     "MarketSaturation":0.5063576494,
     "aCFI":0.4405895895,
     "Rank":235,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":39.7129396,
     "Longitude":-105.0952693637
   },
@@ -2591,7 +2591,7 @@
     "MarketSaturation":0.6415846306,
     "aCFI":0.3498895539,
     "Rank":236,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":43.7033798,
     "Longitude":-72.2886022455
   },
@@ -2602,7 +2602,7 @@
     "MarketSaturation":0.5261605825,
     "aCFI":0.5496370093,
     "Rank":237,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":44.9731679,
     "Longitude":-93.2906677337
   },
@@ -2613,7 +2613,7 @@
     "MarketSaturation":0.5438314855,
     "aCFI":0.4654473819,
     "Rank":238,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":45.3038562,
     "Longitude":-122.9665911824
   },
@@ -2624,7 +2624,7 @@
     "MarketSaturation":0.5733194678,
     "aCFI":0.4564501879,
     "Rank":239,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.80795905,
     "Longitude":-73.6062889676
   },
@@ -2635,7 +2635,7 @@
     "MarketSaturation":0.5122518599,
     "aCFI":0.497073463,
     "Rank":240,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":44.444529,
     "Longitude":-88.071131
   },
@@ -2646,7 +2646,7 @@
     "MarketSaturation":0.5388906962,
     "aCFI":0.4460779792,
     "Rank":241,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":32.46575895,
     "Longitude":-94.7264445244
   },
@@ -2657,7 +2657,7 @@
     "MarketSaturation":0.5232897923,
     "aCFI":0.4692501137,
     "Rank":242,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":42.25146815,
     "Longitude":-71.8229508614
   },
@@ -2668,7 +2668,7 @@
     "MarketSaturation":0.4166179575,
     "aCFI":0.5352290996,
     "Rank":243,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.881897,
     "Longitude":-79.240595
   },
@@ -2679,7 +2679,7 @@
     "MarketSaturation":0.5575694272,
     "aCFI":0.5184179507,
     "Rank":244,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":32.429358,
     "Longitude":-99.7487221774
   },
@@ -2690,7 +2690,7 @@
     "MarketSaturation":0.5621834088,
     "aCFI":0.469691451,
     "Rank":245,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":32.55795265,
     "Longitude":-94.375113428
   },
@@ -2701,7 +2701,7 @@
     "MarketSaturation":0.5630644673,
     "aCFI":0.429179902,
     "Rank":246,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":21.37952275,
     "Longitude":-157.7830819457
   },
@@ -2712,7 +2712,7 @@
     "MarketSaturation":0.5377324123,
     "aCFI":0.4936158226,
     "Rank":247,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":38.6534824,
     "Longitude":-90.2492178336
   },
@@ -2723,7 +2723,7 @@
     "MarketSaturation":0.4483740609,
     "aCFI":0.5399205762,
     "Rank":248,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":45.58264,
     "Longitude":-94.39271
   },
@@ -2734,7 +2734,7 @@
     "MarketSaturation":0.5010932828,
     "aCFI":0.4708346021,
     "Rank":249,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":39.57489275,
     "Longitude":-95.1137921117
   },
@@ -2745,7 +2745,7 @@
     "MarketSaturation":0.5054459765,
     "aCFI":0.463345262,
     "Rank":250,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.471202,
     "Longitude":-71.3004936646
   },
@@ -2756,7 +2756,7 @@
     "MarketSaturation":0.5100808828,
     "aCFI":0.5047394091,
     "Rank":251,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":45.5736806,
     "Longitude":-122.7282877819
   },
@@ -2767,7 +2767,7 @@
     "MarketSaturation":0.4523034668,
     "aCFI":0.5304195388,
     "Rank":252,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":44.00366955,
     "Longitude":-73.1729527896
   },
@@ -2778,7 +2778,7 @@
     "MarketSaturation":0.4540337893,
     "aCFI":0.5677196516,
     "Rank":253,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.6602712,
     "Longitude":-71.5013549918
   },
@@ -2789,7 +2789,7 @@
     "MarketSaturation":0.4722913922,
     "aCFI":0.5415969673,
     "Rank":254,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":47.261437,
     "Longitude":-122.4809573218
   },
@@ -2800,7 +2800,7 @@
     "MarketSaturation":0.5621227096,
     "aCFI":0.4930785101,
     "Rank":255,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":34.08522005,
     "Longitude":-118.4824686306
   },
@@ -2811,7 +2811,7 @@
     "MarketSaturation":0.5130986773,
     "aCFI":0.4686238443,
     "Rank":256,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":42.41403185,
     "Longitude":-83.1378601072
   },
@@ -2822,7 +2822,7 @@
     "MarketSaturation":0.567741792,
     "aCFI":0.4449571265,
     "Rank":257,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":25.8790289,
     "Longitude":-80.2015168072
   },
@@ -2833,7 +2833,7 @@
     "MarketSaturation":0.5394557113,
     "aCFI":0.4483139365,
     "Rank":258,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":42.1125825,
     "Longitude":-72.5147813571
   },
@@ -2844,7 +2844,7 @@
     "MarketSaturation":0.4864879684,
     "aCFI":0.4564286853,
     "Rank":259,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.89849465,
     "Longitude":-84.0608323991
   },
@@ -2855,7 +2855,7 @@
     "MarketSaturation":0.4728795784,
     "aCFI":0.4305091121,
     "Rank":260,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":33.619552,
     "Longitude":-101.87037
   },
@@ -2866,7 +2866,7 @@
     "MarketSaturation":0.3986792591,
     "aCFI":0.6100455662,
     "Rank":261,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":35.69155045,
     "Longitude":-80.4860085325
   },
@@ -2877,7 +2877,7 @@
     "MarketSaturation":0.4361015297,
     "aCFI":0.5737881104,
     "Rank":262,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":45.48149925,
     "Longitude":-122.6310136075
   },
@@ -2888,7 +2888,7 @@
     "MarketSaturation":0.4831444944,
     "aCFI":0.4948640451,
     "Rank":263,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.07754835,
     "Longitude":-85.1176847367
   },
@@ -2899,7 +2899,7 @@
     "MarketSaturation":0.5888771405,
     "aCFI":0.4479208056,
     "Rank":264,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":39.70939645,
     "Longitude":-86.1344522521
   },
@@ -2910,7 +2910,7 @@
     "MarketSaturation":0.5458407037,
     "aCFI":0.5117596036,
     "Rank":265,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.5163759,
     "Longitude":-85.6641650263
   },
@@ -2921,7 +2921,7 @@
     "MarketSaturation":0.5475184186,
     "aCFI":0.4521422601,
     "Rank":266,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":38.643504,
     "Longitude":-90.505204
   },
@@ -2932,7 +2932,7 @@
     "MarketSaturation":0.5341972722,
     "aCFI":0.4600310672,
     "Rank":267,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":39.16630535,
     "Longitude":-78.1587638097
   },
@@ -2943,7 +2943,7 @@
     "MarketSaturation":0.5325427781,
     "aCFI":0.4659587695,
     "Rank":268,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":35.24782945,
     "Longitude":-81.6702380308
   },
@@ -2954,7 +2954,7 @@
     "MarketSaturation":0.4109165064,
     "aCFI":0.4474896241,
     "Rank":269,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":37.74181535,
     "Longitude":-79.3403795467
   },
@@ -2965,7 +2965,7 @@
     "MarketSaturation":0.4993123427,
     "aCFI":0.489513086,
     "Rank":270,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":39.4229618,
     "Longitude":-77.4189170726
   },
@@ -2976,7 +2976,7 @@
     "MarketSaturation":0.4466721346,
     "aCFI":0.5384810679,
     "Rank":271,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":35.20440405,
     "Longitude":-85.9189505883
   },
@@ -2987,7 +2987,7 @@
     "MarketSaturation":0.5849080806,
     "aCFI":0.539033685,
     "Rank":272,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.78823615,
     "Longitude":-71.3903871002
   },
@@ -2998,7 +2998,7 @@
     "MarketSaturation":0.4822803515,
     "aCFI":0.5033466514,
     "Rank":273,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":37.7625105,
     "Longitude":-77.4795421278
   },
@@ -3009,7 +3009,7 @@
     "MarketSaturation":0.4830220719,
     "aCFI":0.4799293365,
     "Rank":274,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":43.04834115,
     "Longitude":-76.0851761083
   },
@@ -3020,7 +3020,7 @@
     "MarketSaturation":0.4865607533,
     "aCFI":0.4739245898,
     "Rank":275,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.76557505,
     "Longitude":-83.8335624102
   },
@@ -3031,7 +3031,7 @@
     "MarketSaturation":0.4922383182,
     "aCFI":0.4498327894,
     "Rank":276,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.69042755,
     "Longitude":-73.9677752401
   },
@@ -3042,7 +3042,7 @@
     "MarketSaturation":0.5134869804,
     "aCFI":0.5214089799,
     "Rank":277,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":32.4842248,
     "Longitude":-93.731712743
   },
@@ -3053,7 +3053,7 @@
     "MarketSaturation":0.481680329,
     "aCFI":0.4744975589,
     "Rank":278,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.82710375,
     "Longitude":-71.4063900715
   },
@@ -3064,7 +3064,7 @@
     "MarketSaturation":0.4858860779,
     "aCFI":0.5082036553,
     "Rank":279,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":37.8633341,
     "Longitude":-84.6652811463
   },
@@ -3075,7 +3075,7 @@
     "MarketSaturation":0.4775316599,
     "aCFI":0.4589739902,
     "Rank":280,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":42.24761745,
     "Longitude":-87.829482065
   },
@@ -3086,7 +3086,7 @@
     "MarketSaturation":0.524672694,
     "aCFI":0.460797016,
     "Rank":281,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.9520749,
     "Longitude":-83.6553613342
   },
@@ -3097,7 +3097,7 @@
     "MarketSaturation":0.4663148743,
     "aCFI":0.4923276201,
     "Rank":282,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":35.15564375,
     "Longitude":-89.9889354945
   },
@@ -3108,7 +3108,7 @@
     "MarketSaturation":0.4958740003,
     "aCFI":0.492614704,
     "Rank":283,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":32.3493496,
     "Longitude":-86.2852119433
   },
@@ -3119,7 +3119,7 @@
     "MarketSaturation":0.4588983323,
     "aCFI":0.504454937,
     "Rank":284,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":44.3241873,
     "Longitude":-93.9714681249
   },
@@ -3130,7 +3130,7 @@
     "MarketSaturation":0.5351731601,
     "aCFI":0.4689703734,
     "Rank":285,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.9272305,
     "Longitude":-73.7856908961
   },
@@ -3141,7 +3141,7 @@
     "MarketSaturation":0.6083952408,
     "aCFI":0.4248050532,
     "Rank":286,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.87613485,
     "Longitude":-87.6251816505
   },
@@ -3152,7 +3152,7 @@
     "MarketSaturation":0.490082604,
     "aCFI":0.4808355552,
     "Rank":287,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":43.11506305,
     "Longitude":-77.5104316719
   },
@@ -3163,7 +3163,7 @@
     "MarketSaturation":0.4444404775,
     "aCFI":0.4934260778,
     "Rank":288,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":43.5253341,
     "Longitude":-96.7387574083
   },
@@ -3174,7 +3174,7 @@
     "MarketSaturation":0.5573886372,
     "aCFI":0.4480508177,
     "Rank":289,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":38.91232935,
     "Longitude":-94.5915629474
   },
@@ -3185,7 +3185,7 @@
     "MarketSaturation":0.3094812563,
     "aCFI":0.6864141855,
     "Rank":290,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":33.5546752,
     "Longitude":-117.7347404585
   },
@@ -3196,7 +3196,7 @@
     "MarketSaturation":0.476885492,
     "aCFI":0.457432307,
     "Rank":291,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":43.135814,
     "Longitude":-79.0349219
   },
@@ -3207,7 +3207,7 @@
     "MarketSaturation":0.3792879971,
     "aCFI":0.5563356402,
     "Rank":292,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":36.19083695,
     "Longitude":-94.5595718916
   },
@@ -3218,7 +3218,7 @@
     "MarketSaturation":0.3505800733,
     "aCFI":0.5124011017,
     "Rank":293,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":43.0588111,
     "Longitude":-89.4212240905
   },
@@ -3229,7 +3229,7 @@
     "MarketSaturation":0.42813585,
     "aCFI":0.5370632266,
     "Rank":294,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.3725696,
     "Longitude":-82.3942745953
   },
@@ -3240,7 +3240,7 @@
     "MarketSaturation":0.4425737568,
     "aCFI":0.5037288008,
     "Rank":295,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.49242715,
     "Longitude":-88.9904210823
   },
@@ -3251,7 +3251,7 @@
     "MarketSaturation":0.448011047,
     "aCFI":0.496125758,
     "Rank":296,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":39.8374688,
     "Longitude":-77.239640536
   },
@@ -3262,7 +3262,7 @@
     "MarketSaturation":0.3818637213,
     "aCFI":0.5141103668,
     "Rank":297,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.45871235,
     "Longitude":-78.6040379074
   },
@@ -3273,7 +3273,7 @@
     "MarketSaturation":0.362320147,
     "aCFI":0.604669008,
     "Rank":298,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.8712713,
     "Longitude":-87.6250693599
   },
@@ -3284,7 +3284,7 @@
     "MarketSaturation":0.3606081533,
     "aCFI":0.4938499648,
     "Rank":299,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.49038105,
     "Longitude":-81.5287586813
   },
@@ -3295,7 +3295,7 @@
     "MarketSaturation":0.2587199228,
     "aCFI":0.7345577625,
     "Rank":300,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.7738393,
     "Longitude":-73.9831016
   },
@@ -3306,7 +3306,7 @@
     "MarketSaturation":0.4863963406,
     "aCFI":0.4866997743,
     "Rank":301,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":44.9355889,
     "Longitude":-123.030812925
   },
@@ -3317,7 +3317,7 @@
     "MarketSaturation":0.2620363428,
     "aCFI":0.7116886014,
     "Rank":302,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":44.0490835,
     "Longitude":-123.0813010458
   },
@@ -3328,7 +3328,7 @@
     "MarketSaturation":0.44410719,
     "aCFI":0.5229942065,
     "Rank":303,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.20281155,
     "Longitude":-77.1995740379
   },
@@ -3339,7 +3339,7 @@
     "MarketSaturation":0.4587934215,
     "aCFI":0.5047702495,
     "Rank":304,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":43.08066095,
     "Longitude":-96.1640467932
   },
@@ -3350,7 +3350,7 @@
     "MarketSaturation":0.5156236909,
     "aCFI":0.4577867956,
     "Rank":305,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.8907,
     "Longitude":-73.90757
   },
@@ -3361,7 +3361,7 @@
     "MarketSaturation":0.4767197627,
     "aCFI":0.4787799023,
     "Rank":306,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":41.9670817,
     "Longitude":-71.1830931787
   },
@@ -3372,7 +3372,7 @@
     "MarketSaturation":0.5026646432,
     "aCFI":0.4736255465,
     "Rank":307,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":36.605177,
     "Longitude":-79.877452
   },
@@ -3383,7 +3383,7 @@
     "MarketSaturation":0.3808044233,
     "aCFI":0.5790591386,
     "Rank":308,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.0367517,
     "Longitude":-86.9072699035
   },
@@ -3394,7 +3394,7 @@
     "MarketSaturation":0.4410982865,
     "aCFI":0.5020481541,
     "Rank":309,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":33.7688851,
     "Longitude":-84.2944452
   },
@@ -3405,7 +3405,7 @@
     "MarketSaturation":0.4064390855,
     "aCFI":0.5131053261,
     "Rank":310,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":44.10656935,
     "Longitude":-70.2028287073
   },
@@ -3416,7 +3416,7 @@
     "MarketSaturation":0.4211485294,
     "aCFI":0.4981321295,
     "Rank":311,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.9136406,
     "Longitude":-97.0875102036
   },
@@ -3427,7 +3427,7 @@
     "MarketSaturation":0.4441944699,
     "aCFI":0.4789991396,
     "Rank":312,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":37.1020748,
     "Longitude":-85.2996860978
   },
@@ -3438,7 +3438,7 @@
     "MarketSaturation":0.4467658984,
     "aCFI":0.4705915199,
     "Rank":313,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":40.79688725,
     "Longitude":-76.875037428
   },
@@ -3449,7 +3449,7 @@
     "MarketSaturation":0.3097535268,
     "aCFI":0.6226233132,
     "Rank":314,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":35.93541995,
     "Longitude":-83.7493949012
   },
@@ -3460,7 +3460,7 @@
     "MarketSaturation":0.4453413223,
     "aCFI":0.4748530998,
     "Rank":315,
-    "Classification":"Fragile",
+    "Classification":"Stable",
     "Latitude":38.3772626,
     "Longitude":-78.9680981466
   },
@@ -3471,7 +3471,7 @@
     "MarketSaturation":0.4658709481,
     "aCFI":0.5895087569,
     "Rank":316,
-    "Classification":"Fragile",
+    "Classification":"Watchlist",
     "Latitude":42.352213,
     "Longitude":-71.110719
   },
@@ -3482,7 +3482,7 @@
     "MarketSaturation":0.42615589,
     "aCFI":0.4771243765,
     "Rank":317,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.127744,
     "Longitude":-82.9362777944
   },
@@ -3493,7 +3493,7 @@
     "MarketSaturation":0.3957447238,
     "aCFI":0.5367092922,
     "Rank":318,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":43.6311535,
     "Longitude":-84.2768175548
   },
@@ -3504,7 +3504,7 @@
     "MarketSaturation":0.2418229132,
     "aCFI":0.4862538961,
     "Rank":319,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":41.6061767,
     "Longitude":-72.645403996
   },
@@ -3515,7 +3515,7 @@
     "MarketSaturation":0.2755785614,
     "aCFI":0.4359487872,
     "Rank":320,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.58746595,
     "Longitude":-83.8804811286
   },
@@ -3526,7 +3526,7 @@
     "MarketSaturation":0.4284281512,
     "aCFI":0.5175134863,
     "Rank":321,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.9042387,
     "Longitude":-81.1106865488
   },
@@ -3537,7 +3537,7 @@
     "MarketSaturation":0.527998085,
     "aCFI":0.4615221745,
     "Rank":322,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":41.37161015,
     "Longitude":-81.8484894663
   },
@@ -3548,7 +3548,7 @@
     "MarketSaturation":0.4069558515,
     "aCFI":0.4938208885,
     "Rank":323,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.98451975,
     "Longitude":-71.5080062239
   },
@@ -3559,7 +3559,7 @@
     "MarketSaturation":0.4489614104,
     "aCFI":0.4595105672,
     "Rank":324,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.1281052,
     "Longitude":-80.0867293
   },
@@ -3570,7 +3570,7 @@
     "MarketSaturation":0.4480502624,
     "aCFI":0.4585227966,
     "Rank":325,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.19369145,
     "Longitude":-76.976052684
   },
@@ -3581,7 +3581,7 @@
     "MarketSaturation":0.469179307,
     "aCFI":0.461060984,
     "Rank":326,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":37.5617598,
     "Longitude":-77.451059774
   },
@@ -3592,7 +3592,7 @@
     "MarketSaturation":0.4883839147,
     "aCFI":0.4784205835,
     "Rank":327,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":29.03653465,
     "Longitude":-81.3005411152
   },
@@ -3603,7 +3603,7 @@
     "MarketSaturation":0.3518041362,
     "aCFI":0.5662692648,
     "Rank":328,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":34.10614005,
     "Longitude":-117.7087281497
   },
@@ -3614,7 +3614,7 @@
     "MarketSaturation":0.4525982394,
     "aCFI":0.4866785643,
     "Rank":329,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":36.5718381,
     "Longitude":-83.6616240484
   },
@@ -3625,7 +3625,7 @@
     "MarketSaturation":0.3003772945,
     "aCFI":0.6944895937,
     "Rank":330,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":38.8489337,
     "Longitude":-91.9568394031
   },
@@ -3636,7 +3636,7 @@
     "MarketSaturation":0.3591871888,
     "aCFI":0.6169419719,
     "Rank":331,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":37.3573684,
     "Longitude":-79.9436595226
   },
@@ -3647,7 +3647,7 @@
     "MarketSaturation":0.2441132746,
     "aCFI":0.5427466821,
     "Rank":332,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.7013535,
     "Longitude":-73.942403
   },
@@ -3658,7 +3658,7 @@
     "MarketSaturation":0.4236921128,
     "aCFI":0.4963642959,
     "Rank":333,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":45.5594818,
     "Longitude":-94.3182962883
   },
@@ -3669,7 +3669,7 @@
     "MarketSaturation":0.4281100734,
     "aCFI":0.4516829525,
     "Rank":334,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":41.11911195,
     "Longitude":-83.1855834523
   },
@@ -3680,7 +3680,7 @@
     "MarketSaturation":0.4682449127,
     "aCFI":0.4767902093,
     "Rank":335,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":26.33623575,
     "Longitude":-81.4398544532
   },
@@ -3691,7 +3691,7 @@
     "MarketSaturation":0.4188299475,
     "aCFI":0.4801588377,
     "Rank":336,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":46.72486905,
     "Longitude":-100.7516229007
   },
@@ -3702,7 +3702,7 @@
     "MarketSaturation":0.3432336982,
     "aCFI":0.5970209178,
     "Rank":337,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":36.617958,
     "Longitude":-93.2365038237
   },
@@ -3713,7 +3713,7 @@
     "MarketSaturation":0.4249627471,
     "aCFI":0.5052190989,
     "Rank":338,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":33.6474084,
     "Longitude":-96.5980178831
   },
@@ -3724,7 +3724,7 @@
     "MarketSaturation":0.3707595482,
     "aCFI":0.5484117953,
     "Rank":339,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":35.67712415,
     "Longitude":-88.8609499773
   },
@@ -3735,7 +3735,7 @@
     "MarketSaturation":0.4329001701,
     "aCFI":0.4486060223,
     "Rank":340,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.91285705,
     "Longitude":-73.9069680173
   },
@@ -3746,7 +3746,7 @@
     "MarketSaturation":0.510048803,
     "aCFI":0.4433119346,
     "Rank":341,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.68543,
     "Longitude":-73.625657
   },
@@ -3757,7 +3757,7 @@
     "MarketSaturation":0.5023524219,
     "aCFI":0.4633019408,
     "Rank":342,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":41.08693075,
     "Longitude":-85.1789805103
   },
@@ -3768,7 +3768,7 @@
     "MarketSaturation":0.4249787931,
     "aCFI":0.470208281,
     "Rank":343,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":44.96651135,
     "Longitude":-93.1645864139
   },
@@ -3779,7 +3779,7 @@
     "MarketSaturation":0.4650201695,
     "aCFI":0.4572687835,
     "Rank":344,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.3406848,
     "Longitude":-71.1029058793
   },
@@ -3790,7 +3790,7 @@
     "MarketSaturation":0.4143025621,
     "aCFI":0.5184544782,
     "Rank":345,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.804866,
     "Longitude":-81.936377
   },
@@ -3801,7 +3801,7 @@
     "MarketSaturation":0.3907214599,
     "aCFI":0.503897709,
     "Rank":346,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":45.1984734,
     "Longitude":-123.1981383587
   },
@@ -3812,7 +3812,7 @@
     "MarketSaturation":0.5061214163,
     "aCFI":0.4510194148,
     "Rank":347,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":38.2187504,
     "Longitude":-85.7058411375
   },
@@ -3823,7 +3823,7 @@
     "MarketSaturation":0.3183749139,
     "aCFI":0.5391722608,
     "Rank":348,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.692532,
     "Longitude":-73.990997
   },
@@ -3834,7 +3834,7 @@
     "MarketSaturation":0.4377582835,
     "aCFI":0.5137506243,
     "Rank":349,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":34.9357023,
     "Longitude":-83.845968131
   },
@@ -3845,7 +3845,7 @@
     "MarketSaturation":0.4284591362,
     "aCFI":0.5066593121,
     "Rank":350,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":44.2607247,
     "Longitude":-88.3988910039
   },
@@ -3856,7 +3856,7 @@
     "MarketSaturation":0.4348451285,
     "aCFI":0.469672274,
     "Rank":351,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":46.873809,
     "Longitude":-96.767816
   },
@@ -3867,7 +3867,7 @@
     "MarketSaturation":0.421833809,
     "aCFI":0.4936551242,
     "Rank":352,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":34.95821,
     "Longitude":-85.379817
   },
@@ -3878,7 +3878,7 @@
     "MarketSaturation":0.4533307286,
     "aCFI":0.4665194005,
     "Rank":353,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.63090535,
     "Longitude":-75.3835240937
   },
@@ -3889,7 +3889,7 @@
     "MarketSaturation":0.4468451047,
     "aCFI":0.5013545743,
     "Rank":354,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":43.4591747,
     "Longitude":-70.3862214449
   },
@@ -3900,7 +3900,7 @@
     "MarketSaturation":0.455781057,
     "aCFI":0.4515181814,
     "Rank":355,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.4752647,
     "Longitude":-83.2506372757
   },
@@ -3911,7 +3911,7 @@
     "MarketSaturation":0.3482392945,
     "aCFI":0.5296198088,
     "Rank":356,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.8736512,
     "Longitude":-81.368768395
   },
@@ -3922,7 +3922,7 @@
     "MarketSaturation":0.3480098372,
     "aCFI":0.5715480599,
     "Rank":357,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":37.24237495,
     "Longitude":-78.4605691873
   },
@@ -3933,7 +3933,7 @@
     "MarketSaturation":0.4604359445,
     "aCFI":0.4392860766,
     "Rank":358,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.52155855,
     "Longitude":-80.2115783186
   },
@@ -3944,7 +3944,7 @@
     "MarketSaturation":0.4043236043,
     "aCFI":0.4651466503,
     "Rank":359,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.4386483,
     "Longitude":-80.001769816
   },
@@ -3955,7 +3955,7 @@
     "MarketSaturation":0.4074256638,
     "aCFI":0.4611105186,
     "Rank":360,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":21.29026655,
     "Longitude":-157.8073477636
   },
@@ -3966,7 +3966,7 @@
     "MarketSaturation":0.4770642791,
     "aCFI":0.4624249565,
     "Rank":361,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":35.408071,
     "Longitude":-78.7392467977
   },
@@ -3977,7 +3977,7 @@
     "MarketSaturation":0.3884864056,
     "aCFI":0.5059754468,
     "Rank":362,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.505231,
     "Longitude":-90.698184
   },
@@ -3988,7 +3988,7 @@
     "MarketSaturation":0.414676252,
     "aCFI":0.4712708048,
     "Rank":363,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":36.1415469,
     "Longitude":-86.7532827388
   },
@@ -3999,7 +3999,7 @@
     "MarketSaturation":0.3936974303,
     "aCFI":0.5037241771,
     "Rank":364,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.92180235,
     "Longitude":-78.8610402313
   },
@@ -4010,7 +4010,7 @@
     "MarketSaturation":0.4819492711,
     "aCFI":0.4710066257,
     "Rank":365,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":35.070227,
     "Longitude":-82.3744330707
   },
@@ -4021,7 +4021,7 @@
     "MarketSaturation":0.4263226264,
     "aCFI":0.4428374412,
     "Rank":366,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.76053795,
     "Longitude":-74.428160531
   },
@@ -4032,7 +4032,7 @@
     "MarketSaturation":0.4268588115,
     "aCFI":0.4926498961,
     "Rank":367,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.29075735,
     "Longitude":-85.5993646597
   },
@@ -4043,7 +4043,7 @@
     "MarketSaturation":0.3394486113,
     "aCFI":0.555883857,
     "Rank":368,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":38.98228315,
     "Longitude":-76.4922374807
   },
@@ -4054,7 +4054,7 @@
     "MarketSaturation":0.3680586252,
     "aCFI":0.5538711319,
     "Rank":369,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":34.10391835,
     "Longitude":-117.7093442201
   },
@@ -4065,7 +4065,7 @@
     "MarketSaturation":0.4057060307,
     "aCFI":0.4839132165,
     "Rank":370,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":34.10471765,
     "Longitude":-117.7050428284
   },
@@ -4076,7 +4076,7 @@
     "MarketSaturation":0.3520396737,
     "aCFI":0.486945046,
     "Rank":371,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":33.03381105,
     "Longitude":-85.0467502795
   },
@@ -4087,7 +4087,7 @@
     "MarketSaturation":0.4113322746,
     "aCFI":0.4588528152,
     "Rank":372,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.3099619,
     "Longitude":-75.9353046002
   },
@@ -4098,7 +4098,7 @@
     "MarketSaturation":0.4163391557,
     "aCFI":0.4783568742,
     "Rank":373,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":34.1307617,
     "Longitude":-93.0525067766
   },
@@ -4109,7 +4109,7 @@
     "MarketSaturation":0.4376115811,
     "aCFI":0.4651453891,
     "Rank":374,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":34.16874025,
     "Longitude":-118.1851007251
   },
@@ -4120,7 +4120,7 @@
     "MarketSaturation":0.4733385313,
     "aCFI":0.4780521784,
     "Rank":375,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":34.95293105,
     "Longitude":-81.9691684943
   },
@@ -4131,7 +4131,7 @@
     "MarketSaturation":0.4361269014,
     "aCFI":0.4630796508,
     "Rank":376,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":44.65958875,
     "Longitude":-75.0062397483
   },
@@ -4142,7 +4142,7 @@
     "MarketSaturation":0.4516278235,
     "aCFI":0.4516598229,
     "Rank":377,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.8175752,
     "Longitude":-73.9283916545
   },
@@ -4153,7 +4153,7 @@
     "MarketSaturation":0.3621881059,
     "aCFI":0.459648266,
     "Rank":378,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":38.14316615,
     "Longitude":-84.6730591944
   },
@@ -4164,7 +4164,7 @@
     "MarketSaturation":0.3851465258,
     "aCFI":0.4605585267,
     "Rank":379,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":41.4345694,
     "Longitude":-75.6325016821
   },
@@ -4175,7 +4175,7 @@
     "MarketSaturation":0.436077529,
     "aCFI":0.4883449015,
     "Rank":380,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":35.74174755,
     "Longitude":-81.3267581296
   },
@@ -4186,7 +4186,7 @@
     "MarketSaturation":0.3047165455,
     "aCFI":0.6072754162,
     "Rank":381,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.347439,
     "Longitude":-75.526109
   },
@@ -4197,7 +4197,7 @@
     "MarketSaturation":0.2400564485,
     "aCFI":0.4444598387,
     "Rank":382,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":31.736783,
     "Longitude":-89.140204
   },
@@ -4208,7 +4208,7 @@
     "MarketSaturation":0.440151992,
     "aCFI":0.4478260995,
     "Rank":383,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":35.7353597,
     "Longitude":-77.9124691415
   },
@@ -4219,7 +4219,7 @@
     "MarketSaturation":0.4698156793,
     "aCFI":0.473854983,
     "Rank":384,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":41.77436545,
     "Longitude":-88.1427492425
   },
@@ -4230,7 +4230,7 @@
     "MarketSaturation":0.5121814549,
     "aCFI":0.4370980801,
     "Rank":385,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":35.2613455,
     "Longitude":-81.0363589947
   },
@@ -4241,7 +4241,7 @@
     "MarketSaturation":0.3896005747,
     "aCFI":0.4635168497,
     "Rank":386,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.73114305,
     "Longitude":-92.4856838257
   },
@@ -4252,7 +4252,7 @@
     "MarketSaturation":0.3201384322,
     "aCFI":0.6539835551,
     "Rank":387,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":38.87397135,
     "Longitude":-94.7821899358
   },
@@ -4263,7 +4263,7 @@
     "MarketSaturation":0.3679909061,
     "aCFI":0.4708608705,
     "Rank":388,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":41.41176365,
     "Longitude":-75.6586756588
   },
@@ -4274,7 +4274,7 @@
     "MarketSaturation":0.4619967179,
     "aCFI":0.4352618598,
     "Rank":389,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.84920905,
     "Longitude":-85.5313091955
   },
@@ -4285,7 +4285,7 @@
     "MarketSaturation":0.4437349517,
     "aCFI":0.4608537873,
     "Rank":390,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":34.33219835,
     "Longitude":-82.3929983941
   },
@@ -4296,7 +4296,7 @@
     "MarketSaturation":0.3254623669,
     "aCFI":0.4728676618,
     "Rank":391,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.7391231,
     "Longitude":-71.4546551811
   },
@@ -4307,7 +4307,7 @@
     "MarketSaturation":0.3802097757,
     "aCFI":0.4939835684,
     "Rank":392,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":39.7291655,
     "Longitude":-90.246473154
   },
@@ -4318,7 +4318,7 @@
     "MarketSaturation":0.4329623929,
     "aCFI":0.5526350463,
     "Rank":393,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":37.43933375,
     "Longitude":-79.1709348513
   },
@@ -4329,7 +4329,7 @@
     "MarketSaturation":0.4440140938,
     "aCFI":0.4931876666,
     "Rank":394,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":43.645339,
     "Longitude":-116.680565
   },
@@ -4340,7 +4340,7 @@
     "MarketSaturation":0.4239155305,
     "aCFI":0.4757539249,
     "Rank":395,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.8383056,
     "Longitude":-96.6479296055
   },
@@ -4351,7 +4351,7 @@
     "MarketSaturation":0.4004282053,
     "aCFI":0.4768865592,
     "Rank":396,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":33.653933,
     "Longitude":-117.8108999654
   },
@@ -4362,7 +4362,7 @@
     "MarketSaturation":0.4843672233,
     "aCFI":0.4585031107,
     "Rank":397,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":34.32186065,
     "Longitude":-84.5527439665
   },
@@ -4373,7 +4373,7 @@
     "MarketSaturation":0.4002128353,
     "aCFI":0.5003501011,
     "Rank":398,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":43.1025786,
     "Longitude":-77.5200682163
   },
@@ -4384,7 +4384,7 @@
     "MarketSaturation":0.4015328285,
     "aCFI":0.490823433,
     "Rank":399,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.98088915,
     "Longitude":-85.5957423521
   },
@@ -4395,7 +4395,7 @@
     "MarketSaturation":0.3337223479,
     "aCFI":0.5492358995,
     "Rank":400,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":46.6018191,
     "Longitude":-112.0385010583
   },
@@ -4406,7 +4406,7 @@
     "MarketSaturation":0.432947402,
     "aCFI":0.4794078986,
     "Rank":401,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":29.9638897,
     "Longitude":-90.1092235852
   },
@@ -4417,7 +4417,7 @@
     "MarketSaturation":0.4202325715,
     "aCFI":0.4695659452,
     "Rank":402,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":46.814984,
     "Longitude":-92.090954
   },
@@ -4428,7 +4428,7 @@
     "MarketSaturation":0.2671069938,
     "aCFI":0.531243877,
     "Rank":403,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.7,
     "Longitude":-73.95
   },
@@ -4439,7 +4439,7 @@
     "MarketSaturation":0.3525999937,
     "aCFI":0.4571970568,
     "Rank":404,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":35.613763,
     "Longitude":-97.470874
   },
@@ -4450,7 +4450,7 @@
     "MarketSaturation":0.4161031674,
     "aCFI":0.4760604451,
     "Rank":405,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":45.5226463,
     "Longitude":-123.1093187331
   },
@@ -4461,7 +4461,7 @@
     "MarketSaturation":0.3383783654,
     "aCFI":0.4721458887,
     "Rank":406,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":37.22175245,
     "Longitude":-93.2649716354
   },
@@ -4472,7 +4472,7 @@
     "MarketSaturation":0.3892050066,
     "aCFI":0.4852360734,
     "Rank":407,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":39.9995479,
     "Longitude":-81.7388823175
   },
@@ -4483,7 +4483,7 @@
     "MarketSaturation":0.5328908357,
     "aCFI":0.4596398751,
     "Rank":408,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":29.21185355,
     "Longitude":-81.031982501
   },
@@ -4494,7 +4494,7 @@
     "MarketSaturation":0.376605002,
     "aCFI":0.5340283758,
     "Rank":409,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":39.218376,
     "Longitude":-76.0692567047
   },
@@ -4505,7 +4505,7 @@
     "MarketSaturation":0.357010619,
     "aCFI":0.4860865909,
     "Rank":410,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":43.80321085,
     "Longitude":-91.2445632956
   },
@@ -4516,7 +4516,7 @@
     "MarketSaturation":0.4208900685,
     "aCFI":0.445559028,
     "Rank":411,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.8664885,
     "Longitude":-74.0926419
   },
@@ -4527,7 +4527,7 @@
     "MarketSaturation":0.37617058,
     "aCFI":0.4552560266,
     "Rank":412,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":42.33893545,
     "Longitude":-71.1004318388
   },
@@ -4538,7 +4538,7 @@
     "MarketSaturation":0.4433245133,
     "aCFI":0.4615088749,
     "Rank":413,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":44.924437,
     "Longitude":-93.1822884447
   },
@@ -4549,7 +4549,7 @@
     "MarketSaturation":0.4227285258,
     "aCFI":0.4376208864,
     "Rank":414,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":40.83390785,
     "Longitude":-74.2713297268
   },
@@ -4560,7 +4560,7 @@
     "MarketSaturation":0.506608846,
     "aCFI":0.4528120751,
     "Rank":415,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":39.7897111,
     "Longitude":-105.0313694672
   },
@@ -4571,7 +4571,7 @@
     "MarketSaturation":0.4437678779,
     "aCFI":0.4590608115,
     "Rank":416,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":47.04343285,
     "Longitude":-122.8134395797
   },
@@ -4582,7 +4582,7 @@
     "MarketSaturation":0.4408449487,
     "aCFI":0.4835892449,
     "Rank":417,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":35.751472,
     "Longitude":-83.9642249
   },
@@ -4593,7 +4593,7 @@
     "MarketSaturation":0.4456311431,
     "aCFI":0.4490750375,
     "Rank":418,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":44.943719,
     "Longitude":-93.094281
   },
@@ -4604,7 +4604,7 @@
     "MarketSaturation":0.4167987146,
     "aCFI":0.4582727313,
     "Rank":419,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":39.0209185,
     "Longitude":-84.5676955599
   },
@@ -4615,7 +4615,7 @@
     "MarketSaturation":0.3702327097,
     "aCFI":0.4980117281,
     "Rank":420,
-    "Classification":"Concern",
+    "Classification":"Watchlist",
     "Latitude":41.4036435,
     "Longitude":-92.9315987773
   },
@@ -4637,7 +4637,7 @@
     "MarketSaturation":0.4034438259,
     "aCFI":0.4754619911,
     "Rank":422,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.3345578,
     "Longitude":-76.5137455955
   },
@@ -4648,7 +4648,7 @@
     "MarketSaturation":0.3536770151,
     "aCFI":0.4844707339,
     "Rank":423,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.96966265,
     "Longitude":-86.3633155386
   },
@@ -4659,7 +4659,7 @@
     "MarketSaturation":0.3533161846,
     "aCFI":0.5045971713,
     "Rank":424,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":35.1008234,
     "Longitude":-92.4420508402
   },
@@ -4670,7 +4670,7 @@
     "MarketSaturation":0.4785535853,
     "aCFI":0.4501054347,
     "Rank":425,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":34.57027745,
     "Longitude":-83.5417106792
   },
@@ -4681,7 +4681,7 @@
     "MarketSaturation":0.3553649626,
     "aCFI":0.5031701586,
     "Rank":426,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":37.6784007,
     "Longitude":-97.3654214162
   },
@@ -4692,7 +4692,7 @@
     "MarketSaturation":0.3513940308,
     "aCFI":0.5004167246,
     "Rank":427,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":28.03446495,
     "Longitude":-82.3833821333
   },
@@ -4703,7 +4703,7 @@
     "MarketSaturation":0.3521734817,
     "aCFI":0.4990792142,
     "Rank":428,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":42.9994485,
     "Longitude":-96.0543218267
   },
@@ -4714,7 +4714,7 @@
     "MarketSaturation":0.4450662932,
     "aCFI":0.4409743324,
     "Rank":429,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.046393,
     "Longitude":-73.949816
   },
@@ -4725,7 +4725,7 @@
     "MarketSaturation":0.3381843705,
     "aCFI":0.4615428082,
     "Rank":430,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":38.6419861,
     "Longitude":-90.4622980639
   },
@@ -4736,7 +4736,7 @@
     "MarketSaturation":0.3934969155,
     "aCFI":0.4581366071,
     "Rank":431,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.672236,
     "Longitude":-73.956477
   },
@@ -4747,7 +4747,7 @@
     "MarketSaturation":0.4538670203,
     "aCFI":0.4364038858,
     "Rank":432,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.6930666,
     "Longitude":-73.992203069
   },
@@ -4758,7 +4758,7 @@
     "MarketSaturation":0.3887441071,
     "aCFI":0.5175759893,
     "Rank":433,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":38.71651765,
     "Longitude":-85.4616427707
   },
@@ -4769,7 +4769,7 @@
     "MarketSaturation":0.4133951395,
     "aCFI":0.4572598348,
     "Rank":434,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.89905155,
     "Longitude":-85.502211855
   },
@@ -4780,7 +4780,7 @@
     "MarketSaturation":0.3336797004,
     "aCFI":0.4547113362,
     "Rank":435,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.53393125,
     "Longitude":-88.0973512805
   },
@@ -4791,7 +4791,7 @@
     "MarketSaturation":0.4122025706,
     "aCFI":0.4722666277,
     "Rank":436,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":43.03726535,
     "Longitude":-88.0219466202
   },
@@ -4802,7 +4802,7 @@
     "MarketSaturation":0.4312059872,
     "aCFI":0.4301679041,
     "Rank":437,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":39.95544185,
     "Longitude":-91.3896918034
   },
@@ -4813,7 +4813,7 @@
     "MarketSaturation":0.248063948,
     "aCFI":0.4457008886,
     "Rank":438,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":36.1461516,
     "Longitude":-80.2562112
   },
@@ -4824,7 +4824,7 @@
     "MarketSaturation":0.4026507378,
     "aCFI":0.5524015054,
     "Rank":439,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":35.24379475,
     "Longitude":-80.8554322598
   },
@@ -4835,7 +4835,7 @@
     "MarketSaturation":0.3958091644,
     "aCFI":0.4593679404,
     "Rank":440,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":44.948616,
     "Longitude":-93.128015
   },
@@ -4846,7 +4846,7 @@
     "MarketSaturation":0.4451736396,
     "aCFI":0.4591052656,
     "Rank":441,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":30.7919746,
     "Longitude":-88.1312415382
   },
@@ -4857,7 +4857,7 @@
     "MarketSaturation":0.393135973,
     "aCFI":0.4885075903,
     "Rank":442,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":42.8570498,
     "Longitude":-76.9871973922
   },
@@ -4868,7 +4868,7 @@
     "MarketSaturation":0.4959291648,
     "aCFI":0.497403686,
     "Rank":443,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.97487485,
     "Longitude":-87.7053827476
   },
@@ -4879,7 +4879,7 @@
     "MarketSaturation":0.3835912343,
     "aCFI":0.4810268208,
     "Rank":444,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":46.0464038,
     "Longitude":-118.3919772448
   },
@@ -4890,7 +4890,7 @@
     "MarketSaturation":0.3979299463,
     "aCFI":0.4742412336,
     "Rank":445,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":35.79821395,
     "Longitude":-78.6889369016
   },
@@ -4901,7 +4901,7 @@
     "MarketSaturation":0.2841749805,
     "aCFI":0.4775355829,
     "Rank":446,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.86967775,
     "Longitude":-97.5803407887
   },
@@ -4912,7 +4912,7 @@
     "MarketSaturation":0.4221630137,
     "aCFI":0.4658822361,
     "Rank":447,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":34.25942875,
     "Longitude":-85.195275107
   },
@@ -4923,7 +4923,7 @@
     "MarketSaturation":0.365446781,
     "aCFI":0.4822912324,
     "Rank":448,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.34579835,
     "Longitude":-75.9718359055
   },
@@ -4934,7 +4934,7 @@
     "MarketSaturation":0.2628237732,
     "aCFI":0.6717980911,
     "Rank":449,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.089909,
     "Longitude":-74.21627
   },
@@ -4945,7 +4945,7 @@
     "MarketSaturation":0.378843713,
     "aCFI":0.4709805625,
     "Rank":450,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":42.479479,
     "Longitude":-96.362656
   },
@@ -4956,7 +4956,7 @@
     "MarketSaturation":0.3996643133,
     "aCFI":0.4513715502,
     "Rank":451,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":42.10284205,
     "Longitude":-72.556714894
   },
@@ -4967,7 +4967,7 @@
     "MarketSaturation":0.3871284397,
     "aCFI":0.479836594,
     "Rank":452,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":39.47660655,
     "Longitude":-86.0372577313
   },
@@ -4978,7 +4978,7 @@
     "MarketSaturation":0.3878310563,
     "aCFI":0.4847857287,
     "Rank":453,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":42.36128,
     "Longitude":-83.0630445677
   },
@@ -4989,7 +4989,7 @@
     "MarketSaturation":0.388062894,
     "aCFI":0.4467238647,
     "Rank":454,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":44.4739064,
     "Longitude":-73.2032715466
   },
@@ -5000,7 +5000,7 @@
     "MarketSaturation":0.3528158772,
     "aCFI":0.4740733946,
     "Rank":455,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":42.5009819,
     "Longitude":-89.0157777412
   },
@@ -5011,7 +5011,7 @@
     "MarketSaturation":0.3246578811,
     "aCFI":0.5216000155,
     "Rank":456,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":43.3169528,
     "Longitude":-91.7985025414
   },
@@ -5022,7 +5022,7 @@
     "MarketSaturation":0.3459082836,
     "aCFI":0.4550401136,
     "Rank":457,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":42.5888528,
     "Longitude":-70.8203006
   },
@@ -5033,7 +5033,7 @@
     "MarketSaturation":0.4128175695,
     "aCFI":0.4532611879,
     "Rank":458,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.7779976,
     "Longitude":-88.0969935555
   },
@@ -5044,7 +5044,7 @@
     "MarketSaturation":0.3648831312,
     "aCFI":0.4837039683,
     "Rank":459,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":43.5309201,
     "Longitude":-96.7381325945
   },
@@ -5055,7 +5055,7 @@
     "MarketSaturation":0.3655589072,
     "aCFI":0.4553798692,
     "Rank":460,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.61980315,
     "Longitude":-93.5988096107
   },
@@ -5066,7 +5066,7 @@
     "MarketSaturation":0.3604795137,
     "aCFI":0.4854686688,
     "Rank":461,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.5012255,
     "Longitude":-78.0151628006
   },
@@ -5077,7 +5077,7 @@
     "MarketSaturation":0.444147051,
     "aCFI":0.4475909183,
     "Rank":462,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":42.2378786,
     "Longitude":-71.114711547
   },
@@ -5088,7 +5088,7 @@
     "MarketSaturation":0.4149289437,
     "aCFI":0.4431068897,
     "Rank":463,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.29314845,
     "Longitude":-75.1599412145
   },
@@ -5099,7 +5099,7 @@
     "MarketSaturation":0.3829799019,
     "aCFI":0.5169250061,
     "Rank":464,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":42.255862,
     "Longitude":-77.7857087052
   },
@@ -5110,7 +5110,7 @@
     "MarketSaturation":0.3683325898,
     "aCFI":0.4466971132,
     "Rank":465,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.5034672,
     "Longitude":-78.6382564
   },
@@ -5121,7 +5121,7 @@
     "MarketSaturation":0.3592702624,
     "aCFI":0.5065064449,
     "Rank":466,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":38.053107,
     "Longitude":-84.4939871578
   },
@@ -5132,7 +5132,7 @@
     "MarketSaturation":0.4029247017,
     "aCFI":0.5111454903,
     "Rank":467,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":36.86802,
     "Longitude":-76.1877440355
   },
@@ -5143,7 +5143,7 @@
     "MarketSaturation":0.2683155955,
     "aCFI":0.5511608336,
     "Rank":468,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":42.2900134,
     "Longitude":-71.2608012073
   },
@@ -5154,7 +5154,7 @@
     "MarketSaturation":0.2614769818,
     "aCFI":0.5110347534,
     "Rank":469,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":32.8796947,
     "Longitude":-96.893204933
   },
@@ -5165,7 +5165,7 @@
     "MarketSaturation":0.2538124532,
     "aCFI":0.6633850342,
     "Rank":470,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.13487835,
     "Longitude":-75.0601346954
   },
@@ -5176,7 +5176,7 @@
     "MarketSaturation":0.2848896092,
     "aCFI":0.5881841199,
     "Rank":471,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":36.0861216,
     "Longitude":-80.2398147112
   },
@@ -5187,7 +5187,7 @@
     "MarketSaturation":0.3655168646,
     "aCFI":0.5017015044,
     "Rank":472,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":35.1660778,
     "Longitude":-84.8692519617
   },
@@ -5198,7 +5198,7 @@
     "MarketSaturation":0.4101077128,
     "aCFI":0.4532982767,
     "Rank":473,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.11455395,
     "Longitude":-85.6607189806
   },
@@ -5209,7 +5209,7 @@
     "MarketSaturation":0.3523640166,
     "aCFI":0.4785474716,
     "Rank":474,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.1719209,
     "Longitude":-80.2413496403
   },
@@ -5220,7 +5220,7 @@
     "MarketSaturation":0.3769235498,
     "aCFI":0.4551413062,
     "Rank":475,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.9062844,
     "Longitude":-84.0179652028
   },
@@ -5231,7 +5231,7 @@
     "MarketSaturation":0.3561987451,
     "aCFI":0.5300152259,
     "Rank":476,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":32.39755805,
     "Longitude":-97.3282199291
   },
@@ -5242,7 +5242,7 @@
     "MarketSaturation":0.2960073587,
     "aCFI":0.4874753542,
     "Rank":477,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.71304545,
     "Longitude":-89.265880875
   },
@@ -5253,7 +5253,7 @@
     "MarketSaturation":0.4074691827,
     "aCFI":0.4742468915,
     "Rank":478,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.86206715,
     "Longitude":-82.3255773738
   },
@@ -5264,7 +5264,7 @@
     "MarketSaturation":0.3634425032,
     "aCFI":0.5170242705,
     "Rank":479,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":35.36446295,
     "Longitude":-96.9338510328
   },
@@ -5275,7 +5275,7 @@
     "MarketSaturation":0.3004039872,
     "aCFI":0.4474031637,
     "Rank":480,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":35.3467159,
     "Longitude":-97.5784764603
   },
@@ -5286,7 +5286,7 @@
     "MarketSaturation":0.3372215995,
     "aCFI":0.5347061712,
     "Rank":481,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.2454429,
     "Longitude":-76.9998825489
   },
@@ -5297,7 +5297,7 @@
     "MarketSaturation":0.3100202754,
     "aCFI":0.518990146,
     "Rank":482,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.291112,
     "Longitude":-79.400714
   },
@@ -5308,7 +5308,7 @@
     "MarketSaturation":0.3494108205,
     "aCFI":0.5042085309,
     "Rank":483,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":44.16674125,
     "Longitude":-93.9910428193
   },
@@ -5319,7 +5319,7 @@
     "MarketSaturation":0.4696460893,
     "aCFI":0.4535363174,
     "Rank":484,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":30.34419595,
     "Longitude":-81.6835694196
   },
@@ -5330,7 +5330,7 @@
     "MarketSaturation":0.295713079,
     "aCFI":0.6402870447,
     "Rank":485,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":37.3362011,
     "Longitude":-82.8733922868
   },
@@ -5341,7 +5341,7 @@
     "MarketSaturation":0.3255617868,
     "aCFI":0.422073608,
     "Rank":486,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":38.89648605,
     "Longitude":-89.4125081389
   },
@@ -5352,7 +5352,7 @@
     "MarketSaturation":0.372968684,
     "aCFI":0.4692189243,
     "Rank":487,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":35.7895729,
     "Longitude":-78.6372258598
   },
@@ -5363,7 +5363,7 @@
     "MarketSaturation":0.4532312569,
     "aCFI":0.4537544247,
     "Rank":488,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.76893065,
     "Longitude":-73.9596963512
   },
@@ -5374,7 +5374,7 @@
     "MarketSaturation":0.3189763583,
     "aCFI":0.5212440701,
     "Rank":489,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.9144918,
     "Longitude":-90.6383902695
   },
@@ -5385,7 +5385,7 @@
     "MarketSaturation":0.3358119147,
     "aCFI":0.4708237043,
     "Rank":490,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":43.03129575,
     "Longitude":-87.9083059919
   },
@@ -5396,7 +5396,7 @@
     "MarketSaturation":0.4286124503,
     "aCFI":0.4751531067,
     "Rank":491,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":35.13408025,
     "Longitude":-78.8724299172
   },
@@ -5407,7 +5407,7 @@
     "MarketSaturation":0.3965547722,
     "aCFI":0.441735358,
     "Rank":492,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":34.5937089,
     "Longitude":-83.3563465736
   },
@@ -5418,7 +5418,7 @@
     "MarketSaturation":0.2939222875,
     "aCFI":0.5911808497,
     "Rank":493,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":38.93325345,
     "Longitude":-79.8435597109
   },
@@ -5429,7 +5429,7 @@
     "MarketSaturation":0.3887304393,
     "aCFI":0.4651103669,
     "Rank":494,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.5943839,
     "Longitude":-98.3654967108
   },
@@ -5440,7 +5440,7 @@
     "MarketSaturation":0.3909416907,
     "aCFI":0.4678261139,
     "Rank":495,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.1917705,
     "Longitude":-75.4568484
   },
@@ -5451,7 +5451,7 @@
     "MarketSaturation":0.373684521,
     "aCFI":0.4430694741,
     "Rank":496,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":42.9597531,
     "Longitude":-85.6249874407
   },
@@ -5462,7 +5462,7 @@
     "MarketSaturation":0.4004331141,
     "aCFI":0.4335900246,
     "Rank":497,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":33.9311113,
     "Longitude":-84.5174087818
   },
@@ -5473,7 +5473,7 @@
     "MarketSaturation":0.4134977258,
     "aCFI":0.4958299154,
     "Rank":498,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":47.61680045,
     "Longitude":-122.33586595
   },
@@ -5484,7 +5484,7 @@
     "MarketSaturation":0.3697323913,
     "aCFI":0.4654669166,
     "Rank":499,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":35.5138091,
     "Longitude":-97.6293006869
   },
@@ -5495,7 +5495,7 @@
     "MarketSaturation":0.3775371028,
     "aCFI":0.4836156695,
     "Rank":500,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.9253978,
     "Longitude":-91.4239855275
   },
@@ -5506,7 +5506,7 @@
     "MarketSaturation":0.3158339557,
     "aCFI":0.5186331122,
     "Rank":501,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":29.9962374,
     "Longitude":-90.065367771
   },
@@ -5517,7 +5517,7 @@
     "MarketSaturation":0.2490112743,
     "aCFI":0.5297900735,
     "Rank":502,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":42.5087374,
     "Longitude":-90.7060749086
   },
@@ -5528,7 +5528,7 @@
     "MarketSaturation":0.3363830061,
     "aCFI":0.5136370128,
     "Rank":503,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":35.6459434,
     "Longitude":-82.2970364
   },
@@ -5539,7 +5539,7 @@
     "MarketSaturation":0.2888044391,
     "aCFI":0.4823215638,
     "Rank":504,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":36.099447,
     "Longitude":-80.22659
   },
@@ -5550,7 +5550,7 @@
     "MarketSaturation":0.3354812122,
     "aCFI":0.4942095634,
     "Rank":505,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.1182434,
     "Longitude":-80.3286895739
   },
@@ -5561,7 +5561,7 @@
     "MarketSaturation":0.2419229425,
     "aCFI":0.5415271891,
     "Rank":506,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.8844868,
     "Longitude":-73.6447696695
   },
@@ -5572,7 +5572,7 @@
     "MarketSaturation":0.2343985865,
     "aCFI":0.470721195,
     "Rank":507,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":35.064191,
     "Longitude":-89.911893
   },
@@ -5583,7 +5583,7 @@
     "MarketSaturation":0.3915692594,
     "aCFI":0.4739980215,
     "Rank":508,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":43.38147395,
     "Longitude":-84.67134903
   },
@@ -5594,7 +5594,7 @@
     "MarketSaturation":0.2920560455,
     "aCFI":0.4741612297,
     "Rank":509,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":44.5223921,
     "Longitude":-69.6633477503
   },
@@ -5605,7 +5605,7 @@
     "MarketSaturation":0.3465674404,
     "aCFI":0.469440141,
     "Rank":510,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":31.3037101,
     "Longitude":-89.2927638655
   },
@@ -5616,7 +5616,7 @@
     "MarketSaturation":0.3318712278,
     "aCFI":0.4500403219,
     "Rank":511,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":39.03081885,
     "Longitude":-94.5706750446
   },
@@ -5627,7 +5627,7 @@
     "MarketSaturation":0.2709588843,
     "aCFI":0.4827010659,
     "Rank":512,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":37.60076005,
     "Longitude":-93.4087307447
   },
@@ -5638,7 +5638,7 @@
     "MarketSaturation":0.2422592529,
     "aCFI":0.4601681855,
     "Rank":513,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.605007,
     "Longitude":-81.475558
   },
@@ -5649,7 +5649,7 @@
     "MarketSaturation":0.2801207018,
     "aCFI":0.5689876065,
     "Rank":514,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.9002764,
     "Longitude":-87.6354882298
   },
@@ -5660,7 +5660,7 @@
     "MarketSaturation":0.350165911,
     "aCFI":0.4763513076,
     "Rank":515,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":40.59758265,
     "Longitude":-75.5104839064
   },
@@ -5671,7 +5671,7 @@
     "MarketSaturation":0.3519481253,
     "aCFI":0.5066157315,
     "Rank":516,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":33.9101505,
     "Longitude":-117.4957464559
   },
@@ -5682,7 +5682,7 @@
     "MarketSaturation":0.2419224633,
     "aCFI":0.4988069482,
     "Rank":517,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":46.002563,
     "Longitude":-98.527345
   },
@@ -5693,7 +5693,7 @@
     "MarketSaturation":0.3665293815,
     "aCFI":0.4589347947,
     "Rank":518,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":37.2182356,
     "Longitude":-93.2846472053
   },
@@ -5704,7 +5704,7 @@
     "MarketSaturation":0.3127757847,
     "aCFI":0.5124586208,
     "Rank":519,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":46.3741532,
     "Longitude":-120.3942754804
   },
@@ -5715,7 +5715,7 @@
     "MarketSaturation":0.3784602937,
     "aCFI":0.4657009364,
     "Rank":520,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":42.2953528,
     "Longitude":-71.829643774
   },
@@ -5726,7 +5726,7 @@
     "MarketSaturation":0.3315307041,
     "aCFI":0.4897978287,
     "Rank":521,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":34.0635903,
     "Longitude":-117.1638542076
   },
@@ -5737,7 +5737,7 @@
     "MarketSaturation":0.3602543704,
     "aCFI":0.4999305921,
     "Rank":522,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":39.68213315,
     "Longitude":-75.5869978131
   },
@@ -5748,7 +5748,7 @@
     "MarketSaturation":0.3731352522,
     "aCFI":0.4478230505,
     "Rank":523,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":41.3117756,
     "Longitude":-92.6489404592
   },
@@ -5759,7 +5759,7 @@
     "MarketSaturation":0.2502049189,
     "aCFI":0.4728429642,
     "Rank":524,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":43.0140422,
     "Longitude":-83.7140043529
   },
@@ -5770,7 +5770,7 @@
     "MarketSaturation":0.3417607095,
     "aCFI":0.4898069701,
     "Rank":525,
-    "Classification":"Watchlist",
+    "Classification":"Concern",
     "Latitude":39.8204275,
     "Longitude":-84.9132312424
   },
@@ -5781,7 +5781,7 @@
     "MarketSaturation":0.3746285008,
     "aCFI":0.4434207296,
     "Rank":526,
-    "Classification":"Watchlist",
+    "Classification":"Fragile",
     "Latitude":42.959719,
     "Longitude":-78.801713
   },
@@ -5792,7 +5792,7 @@
     "MarketSaturation":0.4068836474,
     "aCFI":0.486667981,
     "Rank":527,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":36.0713888,
     "Longitude":-79.8008558023
   },
@@ -5803,7 +5803,7 @@
     "MarketSaturation":0.2434666384,
     "aCFI":0.5180683191,
     "Rank":528,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":40.7685442,
     "Longitude":-73.962478256
   },
@@ -5814,7 +5814,7 @@
     "MarketSaturation":0.3872534468,
     "aCFI":0.4647580645,
     "Rank":529,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":37.47482525,
     "Longitude":-82.5210015724
   },
@@ -5825,7 +5825,7 @@
     "MarketSaturation":0.3487268941,
     "aCFI":0.4731970982,
     "Rank":530,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.3050505,
     "Longitude":-76.619760995
   },
@@ -5836,7 +5836,7 @@
     "MarketSaturation":0.3351020377,
     "aCFI":0.4629753191,
     "Rank":531,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":40.310888,
     "Longitude":-79.5568865693
   },
@@ -5847,7 +5847,7 @@
     "MarketSaturation":0.3266697259,
     "aCFI":0.4696336979,
     "Rank":532,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.9028358,
     "Longitude":-78.8910200854
   },
@@ -5858,7 +5858,7 @@
     "MarketSaturation":0.2971798965,
     "aCFI":0.4673304474,
     "Rank":533,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":32.6788166,
     "Longitude":-96.7536778137
   },
@@ -5869,7 +5869,7 @@
     "MarketSaturation":0.2878352552,
     "aCFI":0.5287437877,
     "Rank":534,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":38.99047565,
     "Longitude":-80.2182609119
   },
@@ -5880,7 +5880,7 @@
     "MarketSaturation":0.3254557956,
     "aCFI":0.5089698908,
     "Rank":535,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":40.62131545,
     "Longitude":-96.9471759313
   },
@@ -5891,7 +5891,7 @@
     "MarketSaturation":0.3815397242,
     "aCFI":0.4434027635,
     "Rank":536,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":40.0917501,
     "Longitude":-75.1651150967
   },
@@ -5902,7 +5902,7 @@
     "MarketSaturation":0.3245602143,
     "aCFI":0.4737609039,
     "Rank":537,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":40.1288229,
     "Longitude":-91.5316408
   },
@@ -5913,7 +5913,7 @@
     "MarketSaturation":0.2404496534,
     "aCFI":0.4575205585,
     "Rank":538,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.8067883,
     "Longitude":-71.4831730422
   },
@@ -5924,7 +5924,7 @@
     "MarketSaturation":0.2625258475,
     "aCFI":0.4267568618,
     "Rank":539,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":40.0714296,
     "Longitude":-80.6907569165
   },
@@ -5935,7 +5935,7 @@
     "MarketSaturation":0.424459024,
     "aCFI":0.4479321937,
     "Rank":540,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":34.758802,
     "Longitude":-86.6545991179
   },
@@ -5946,7 +5946,7 @@
     "MarketSaturation":0.3202175085,
     "aCFI":0.474299548,
     "Rank":541,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.029965,
     "Longitude":-73.928265
   },
@@ -5957,7 +5957,7 @@
     "MarketSaturation":0.361484609,
     "aCFI":0.4829108658,
     "Rank":542,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":44.04534085,
     "Longitude":-91.6951876897
   },
@@ -5968,7 +5968,7 @@
     "MarketSaturation":0.3632791433,
     "aCFI":0.5036884146,
     "Rank":543,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":34.95798605,
     "Longitude":-81.9191330667
   },
@@ -5979,7 +5979,7 @@
     "MarketSaturation":0.3034891446,
     "aCFI":0.4689338343,
     "Rank":544,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":43.12430275,
     "Longitude":-77.7983948173
   },
@@ -5990,7 +5990,7 @@
     "MarketSaturation":0.4212705108,
     "aCFI":0.4281871093,
     "Rank":545,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":43.09724785,
     "Longitude":-75.2704843628
   },
@@ -6001,7 +6001,7 @@
     "MarketSaturation":0.3113982021,
     "aCFI":0.4778359092,
     "Rank":546,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":34.42726,
     "Longitude":-119.087525
   },
@@ -6012,7 +6012,7 @@
     "MarketSaturation":0.2569183838,
     "aCFI":0.4758659354,
     "Rank":547,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.2657787,
     "Longitude":-96.0483870748
   },
@@ -6023,7 +6023,7 @@
     "MarketSaturation":0.41629466,
     "aCFI":0.4582430402,
     "Rank":548,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.2437255,
     "Longitude":-84.7429009549
   },
@@ -6034,7 +6034,7 @@
     "MarketSaturation":0.3128072354,
     "aCFI":0.4442764706,
     "Rank":549,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":46.733689,
     "Longitude":-117.000002
   },
@@ -6045,7 +6045,7 @@
     "MarketSaturation":0.4042156487,
     "aCFI":0.4685916104,
     "Rank":550,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":35.827147,
     "Longitude":-82.5529516616
   },
@@ -6056,7 +6056,7 @@
     "MarketSaturation":0.3456663089,
     "aCFI":0.488966074,
     "Rank":551,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.04669785,
     "Longitude":-94.5831749587
   },
@@ -6067,7 +6067,7 @@
     "MarketSaturation":0.3773216436,
     "aCFI":0.4560608628,
     "Rank":552,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":40.6147187,
     "Longitude":-74.0935586726
   },
@@ -6078,7 +6078,7 @@
     "MarketSaturation":0.341845863,
     "aCFI":0.4971186717,
     "Rank":553,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":36.12206325,
     "Longitude":-83.4893262981
   },
@@ -6089,7 +6089,7 @@
     "MarketSaturation":0.2977659002,
     "aCFI":0.4600442844,
     "Rank":554,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.7280214,
     "Longitude":-73.6935695
   },
@@ -6100,7 +6100,7 @@
     "MarketSaturation":0.3854066231,
     "aCFI":0.4083957624,
     "Rank":555,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.0225482,
     "Longitude":-73.9107242212
   },
@@ -6111,7 +6111,7 @@
     "MarketSaturation":0.233121784,
     "aCFI":0.3500268794,
     "Rank":556,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":44.114725,
     "Longitude":-70.19804
   },
@@ -6122,7 +6122,7 @@
     "MarketSaturation":0.3599980029,
     "aCFI":0.4932849704,
     "Rank":557,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":34.46275055,
     "Longitude":-81.8671770878
   },
@@ -6133,7 +6133,7 @@
     "MarketSaturation":0.2309194839,
     "aCFI":0.5989375829,
     "Rank":558,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":34.5448939,
     "Longitude":-112.4774982081
   },
@@ -6144,7 +6144,7 @@
     "MarketSaturation":0.2470019747,
     "aCFI":0.6679106052,
     "Rank":559,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.3864348,
     "Longitude":-71.1190947
   },
@@ -6155,7 +6155,7 @@
     "MarketSaturation":0.3818545033,
     "aCFI":0.4380324126,
     "Rank":560,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":38.20692075,
     "Longitude":-84.5540343488
   },
@@ -6166,7 +6166,7 @@
     "MarketSaturation":0.4385034442,
     "aCFI":0.4352625444,
     "Rank":561,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":32.876125,
     "Longitude":-85.184282
   },
@@ -6177,7 +6177,7 @@
     "MarketSaturation":0.4170933393,
     "aCFI":0.4547221446,
     "Rank":562,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":32.185388958,
     "Longitude":-82.5834727116
   },
@@ -6188,7 +6188,7 @@
     "MarketSaturation":0.2970194732,
     "aCFI":0.4828256996,
     "Rank":563,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":43.69723515,
     "Longitude":-98.0304679264
   },
@@ -6199,7 +6199,7 @@
     "MarketSaturation":0.3540397742,
     "aCFI":0.4720388585,
     "Rank":564,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":43.07252155,
     "Longitude":-88.0314515776
   },
@@ -6210,7 +6210,7 @@
     "MarketSaturation":0.3753326393,
     "aCFI":0.4724297516,
     "Rank":565,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":34.30369005,
     "Longitude":-83.8223537789
   },
@@ -6221,7 +6221,7 @@
     "MarketSaturation":0.3543182744,
     "aCFI":0.464821382,
     "Rank":566,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":34.04613185,
     "Longitude":-81.0303894035
   },
@@ -6232,7 +6232,7 @@
     "MarketSaturation":0.3688516257,
     "aCFI":0.4687222452,
     "Rank":567,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":36.15271495,
     "Longitude":-81.8815894124
   },
@@ -6243,7 +6243,7 @@
     "MarketSaturation":0.3513675092,
     "aCFI":0.4836425415,
     "Rank":568,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":35.237431,
     "Longitude":-82.7264112203
   },
@@ -6254,7 +6254,7 @@
     "MarketSaturation":0.239230153,
     "aCFI":0.4545004669,
     "Rank":569,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.95764845,
     "Longitude":-82.9909304659
   },
@@ -6265,7 +6265,7 @@
     "MarketSaturation":0.3491200221,
     "aCFI":0.4369629051,
     "Rank":570,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.7567258,
     "Longitude":-78.8225324
   },
@@ -6276,7 +6276,7 @@
     "MarketSaturation":0.3552843679,
     "aCFI":0.4490324377,
     "Rank":571,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.332772,
     "Longitude":-72.9225456414
   },
@@ -6287,7 +6287,7 @@
     "MarketSaturation":0.3571834192,
     "aCFI":0.4565472056,
     "Rank":572,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":44.9688959,
     "Longitude":-93.2618548027
   },
@@ -6298,7 +6298,7 @@
     "MarketSaturation":0.2639932716,
     "aCFI":0.5395514246,
     "Rank":573,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.103699,
     "Longitude":-84.513611
   },
@@ -6309,7 +6309,7 @@
     "MarketSaturation":0.3637520433,
     "aCFI":0.4577784814,
     "Rank":574,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.3662127,
     "Longitude":-93.5660540991
   },
@@ -6320,7 +6320,7 @@
     "MarketSaturation":0.3086212406,
     "aCFI":0.4648313617,
     "Rank":575,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.14190105,
     "Longitude":-72.6004230075
   },
@@ -6331,7 +6331,7 @@
     "MarketSaturation":0.374993889,
     "aCFI":0.4575565343,
     "Rank":576,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":36.14145385,
     "Longitude":-88.5155257623
   },
@@ -6342,7 +6342,7 @@
     "MarketSaturation":0.2683571073,
     "aCFI":0.4764237241,
     "Rank":577,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":44.46900025,
     "Longitude":-87.921607753
   },
@@ -6353,7 +6353,7 @@
     "MarketSaturation":0.2904753082,
     "aCFI":0.4678302121,
     "Rank":578,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":35.49789125,
     "Longitude":-84.9985509736
   },
@@ -6364,7 +6364,7 @@
     "MarketSaturation":0.3326882582,
     "aCFI":0.5586798876,
     "Rank":579,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.49510235,
     "Longitude":-90.6965538516
   },
@@ -6375,7 +6375,7 @@
     "MarketSaturation":0.3656986475,
     "aCFI":0.5416464029,
     "Rank":580,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":31.71642025,
     "Longitude":-98.9863140458
   },
@@ -6386,7 +6386,7 @@
     "MarketSaturation":0.3315635323,
     "aCFI":0.473609884,
     "Rank":581,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.11442525,
     "Longitude":-83.1668666664
   },
@@ -6397,7 +6397,7 @@
     "MarketSaturation":0.2579851707,
     "aCFI":0.5261382217,
     "Rank":582,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":44.39407415,
     "Longitude":-68.2199926432
   },
@@ -6408,7 +6408,7 @@
     "MarketSaturation":0.3712608454,
     "aCFI":0.4322407566,
     "Rank":583,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":36.5789301,
     "Longitude":-79.4145205163
   },
@@ -6419,7 +6419,7 @@
     "MarketSaturation":0.3879929117,
     "aCFI":0.4660603114,
     "Rank":584,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.6980783,
     "Longitude":-86.2532232986
   },
@@ -6430,7 +6430,7 @@
     "MarketSaturation":0.3769623176,
     "aCFI":0.4632922642,
     "Rank":585,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.99059715,
     "Longitude":-91.656966447
   },
@@ -6441,7 +6441,7 @@
     "MarketSaturation":0.3052028245,
     "aCFI":0.487570813,
     "Rank":586,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.441677,
     "Longitude":-83.8173160075
   },
@@ -6452,7 +6452,7 @@
     "MarketSaturation":0.3233085467,
     "aCFI":0.4997410141,
     "Rank":587,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.24954285,
     "Longitude":-75.8782267998
   },
@@ -6463,7 +6463,7 @@
     "MarketSaturation":0.2592075647,
     "aCFI":0.5031075873,
     "Rank":588,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":35.43981645,
     "Longitude":-88.6366278487
   },
@@ -6474,7 +6474,7 @@
     "MarketSaturation":0.3926879585,
     "aCFI":0.4491970143,
     "Rank":589,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.33036785,
     "Longitude":-71.9197277944
   },
@@ -6485,7 +6485,7 @@
     "MarketSaturation":0.2574333506,
     "aCFI":0.5816159642,
     "Rank":590,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":37.8365603,
     "Longitude":-94.3711435651
   },
@@ -6496,7 +6496,7 @@
     "MarketSaturation":0.34624075,
     "aCFI":0.5135750977,
     "Rank":591,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":36.01543505,
     "Longitude":-77.7749097888
   },
@@ -6507,7 +6507,7 @@
     "MarketSaturation":0.2370333298,
     "aCFI":0.490124328,
     "Rank":592,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.9574536,
     "Longitude":-83.020968135
   },
@@ -6518,7 +6518,7 @@
     "MarketSaturation":0.3569701336,
     "aCFI":0.4392211392,
     "Rank":593,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.8993058,
     "Longitude":-87.8094575608
   },
@@ -6529,7 +6529,7 @@
     "MarketSaturation":0.3008478264,
     "aCFI":0.4868907217,
     "Rank":594,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":34.3777406,
     "Longitude":-80.0674304
   },
@@ -6540,7 +6540,7 @@
     "MarketSaturation":0.2105377401,
     "aCFI":0.4299747501,
     "Rank":595,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.19529545,
     "Longitude":-87.8791036043
   },
@@ -6551,7 +6551,7 @@
     "MarketSaturation":0.3332475075,
     "aCFI":0.4392401176,
     "Rank":596,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":40.03762975,
     "Longitude":-75.154002517
   },
@@ -6562,7 +6562,7 @@
     "MarketSaturation":0.3140933948,
     "aCFI":0.465910979,
     "Rank":597,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":40.77108845,
     "Longitude":-80.3217134688
   },
@@ -6573,7 +6573,7 @@
     "MarketSaturation":0.3037351239,
     "aCFI":0.4548156273,
     "Rank":598,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":35.44761055,
     "Longitude":-84.5944217053
   },
@@ -6584,7 +6584,7 @@
     "MarketSaturation":0.2825489249,
     "aCFI":0.4632227511,
     "Rank":599,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":44.435899,
     "Longitude":-74.251543
   },
@@ -6595,7 +6595,7 @@
     "MarketSaturation":0.3097801435,
     "aCFI":0.44744347,
     "Rank":600,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.50504945,
     "Longitude":-90.6788557755
   },
@@ -6606,7 +6606,7 @@
     "MarketSaturation":0.3306237374,
     "aCFI":0.478794255,
     "Rank":601,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.95543425,
     "Longitude":-82.9376326886
   },
@@ -6617,7 +6617,7 @@
     "MarketSaturation":0.2916133583,
     "aCFI":0.5020320864,
     "Rank":602,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.3514279,
     "Longitude":-76.6194007019
   },
@@ -6628,7 +6628,7 @@
     "MarketSaturation":0.3315647067,
     "aCFI":0.4884882287,
     "Rank":603,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.842988,
     "Longitude":-88.9742628094
   },
@@ -6639,7 +6639,7 @@
     "MarketSaturation":0.3747542884,
     "aCFI":0.5083320437,
     "Rank":604,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.408995,
     "Longitude":-76.5928709157
   },
@@ -6650,7 +6650,7 @@
     "MarketSaturation":0.2358489334,
     "aCFI":0.3617812313,
     "Rank":605,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":35.084042,
     "Longitude":-78.906731
   },
@@ -6661,7 +6661,7 @@
     "MarketSaturation":0.3454491082,
     "aCFI":0.4464662408,
     "Rank":606,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.08465315,
     "Longitude":-71.3998377723
   },
@@ -6672,7 +6672,7 @@
     "MarketSaturation":0.4088574025,
     "aCFI":0.4425751016,
     "Rank":607,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.10644115,
     "Longitude":-93.1907708074
   },
@@ -6683,7 +6683,7 @@
     "MarketSaturation":0.302696223,
     "aCFI":0.4341756893,
     "Rank":608,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.9945316,
     "Longitude":-82.9423586879
   },
@@ -6694,7 +6694,7 @@
     "MarketSaturation":0.3188573594,
     "aCFI":0.4166213301,
     "Rank":609,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.32502175,
     "Longitude":-72.5294022233
   },
@@ -6705,7 +6705,7 @@
     "MarketSaturation":0.2991267815,
     "aCFI":0.4610117429,
     "Rank":610,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.72508,
     "Longitude":-93.600414
   },
@@ -6716,7 +6716,7 @@
     "MarketSaturation":0.405795054,
     "aCFI":0.4292652553,
     "Rank":611,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.509411,
     "Longitude":-87.4597948392
   },
@@ -6727,7 +6727,7 @@
     "MarketSaturation":0.3253234219,
     "aCFI":0.4315311458,
     "Rank":612,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.0313935,
     "Longitude":-73.7155858
   },
@@ -6738,7 +6738,7 @@
     "MarketSaturation":0.3660509743,
     "aCFI":0.474208431,
     "Rank":613,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":38.8135329,
     "Longitude":-97.6100543748
   },
@@ -6749,7 +6749,7 @@
     "MarketSaturation":0.2518409086,
     "aCFI":0.4543457569,
     "Rank":614,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.9084449,
     "Longitude":-75.3888041
   },
@@ -6760,7 +6760,7 @@
     "MarketSaturation":0.3765726105,
     "aCFI":0.4446541366,
     "Rank":615,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":38.62831,
     "Longitude":-90.1929158187
   },
@@ -6771,7 +6771,7 @@
     "MarketSaturation":0.2411603785,
     "aCFI":0.5315320761,
     "Rank":616,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.51246555,
     "Longitude":-81.6088220253
   },
@@ -6782,7 +6782,7 @@
     "MarketSaturation":0.3158219202,
     "aCFI":0.5060252363,
     "Rank":617,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":44.13917905,
     "Longitude":-72.6612695464
   },
@@ -6793,7 +6793,7 @@
     "MarketSaturation":0.2901706621,
     "aCFI":0.4536837156,
     "Rank":618,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.6147014,
     "Longitude":-77.0899573632
   },
@@ -6804,7 +6804,7 @@
     "MarketSaturation":0.2911245539,
     "aCFI":0.5058207092,
     "Rank":619,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":34.01396275,
     "Longitude":-81.0209728892
   },
@@ -6815,7 +6815,7 @@
     "MarketSaturation":0.2644438101,
     "aCFI":0.5423434749,
     "Rank":620,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.2409476,
     "Longitude":-96.0211707813
   },
@@ -6826,7 +6826,7 @@
     "MarketSaturation":0.3375802084,
     "aCFI":0.4520616779,
     "Rank":621,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.8992531,
     "Longitude":-80.1863397158
   },
@@ -6837,7 +6837,7 @@
     "MarketSaturation":0.33840969,
     "aCFI":0.4524720464,
     "Rank":622,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":37.7433245,
     "Longitude":-87.1206201914
   },
@@ -6848,7 +6848,7 @@
     "MarketSaturation":0.317597885,
     "aCFI":0.4455292476,
     "Rank":623,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":28.81243925,
     "Longitude":-81.8739260046
   },
@@ -6859,7 +6859,7 @@
     "MarketSaturation":0.3034686279,
     "aCFI":0.4644734147,
     "Rank":624,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":43.7774111,
     "Longitude":-88.4141278904
   },
@@ -6870,7 +6870,7 @@
     "MarketSaturation":0.2980584683,
     "aCFI":0.5487141582,
     "Rank":625,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":32.32196355,
     "Longitude":-90.179822533
   },
@@ -6881,7 +6881,7 @@
     "MarketSaturation":0.3080643456,
     "aCFI":0.4597173474,
     "Rank":626,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":39.2513794,
     "Longitude":-94.411222229
   },
@@ -6892,7 +6892,7 @@
     "MarketSaturation":0.3752528987,
     "aCFI":0.455744817,
     "Rank":627,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":42.3911354,
     "Longitude":-83.4103413129
   },
@@ -6903,7 +6903,7 @@
     "MarketSaturation":0.323576223,
     "aCFI":0.4677789635,
     "Rank":628,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":40.166879,
     "Longitude":-74.907382
   },
@@ -6914,7 +6914,7 @@
     "MarketSaturation":0.2589803767,
     "aCFI":0.4515458197,
     "Rank":629,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":41.32765375,
     "Longitude":-72.0962100299
   },
@@ -6925,7 +6925,7 @@
     "MarketSaturation":0.291396463,
     "aCFI":0.4733129755,
     "Rank":630,
-    "Classification":"Stable",
+    "Classification":"Fragile",
     "Latitude":40.8125642,
     "Longitude":-73.9612953694
   },
@@ -6936,7 +6936,7 @@
     "MarketSaturation":0.3004646261,
     "aCFI":0.4570723153,
     "Rank":631,
-    "Classification":"Stable",
+    "Classification":"Severe Risk",
     "Latitude":42.871064,
     "Longitude":-97.390536
   },
@@ -6947,7 +6947,7 @@
     "MarketSaturation":0.3086278445,
     "aCFI":0.4370528143,
     "Rank":632,
-    "Classification":"Stable",
+    "Classification":"Severe Risk",
     "Latitude":42.3506516,
     "Longitude":-71.30852443
   },
@@ -6958,7 +6958,7 @@
     "MarketSaturation":0.3146078193,
     "aCFI":0.4752164514,
     "Rank":633,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":38.47216285,
     "Longitude":-78.8779451533
   },
@@ -6969,7 +6969,7 @@
     "MarketSaturation":0.3361903973,
     "aCFI":0.4565842118,
     "Rank":634,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":39.04698215,
     "Longitude":-76.8514527019
   },
@@ -6980,7 +6980,7 @@
     "MarketSaturation":0.284619494,
     "aCFI":0.4985538076,
     "Rank":635,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":38.34564655,
     "Longitude":-97.1997449022
   },
@@ -6991,7 +6991,7 @@
     "MarketSaturation":0.3695658969,
     "aCFI":0.4240886047,
     "Rank":636,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":39.87556305,
     "Longitude":-75.4404744508
   },
@@ -7002,7 +7002,7 @@
     "MarketSaturation":0.3258276172,
     "aCFI":0.4698768564,
     "Rank":637,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.9419283,
     "Longitude":-90.3722582709
   },
@@ -7013,7 +7013,7 @@
     "MarketSaturation":0.3545384383,
     "aCFI":0.4575284231,
     "Rank":638,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.7825213,
     "Longitude":-72.7312065675
   },
@@ -7024,7 +7024,7 @@
     "MarketSaturation":0.3853408305,
     "aCFI":0.4510027553,
     "Rank":639,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":33.95673905,
     "Longitude":-118.4171692394
   },
@@ -7035,7 +7035,7 @@
     "MarketSaturation":0.2931582401,
     "aCFI":0.4376805418,
     "Rank":640,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.98375305,
     "Longitude":-87.9654822366
   },
@@ -7046,7 +7046,7 @@
     "MarketSaturation":0.2952339466,
     "aCFI":0.4612997863,
     "Rank":641,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":43.735578,
     "Longitude":-70.550979
   },
@@ -7057,7 +7057,7 @@
     "MarketSaturation":0.321348965,
     "aCFI":0.4408389792,
     "Rank":642,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.0609055,
     "Longitude":-88.2915074905
   },
@@ -7068,7 +7068,7 @@
     "MarketSaturation":0.3320017597,
     "aCFI":0.5149065753,
     "Rank":643,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":32.87342845,
     "Longitude":-83.7177339975
   },
@@ -7079,7 +7079,7 @@
     "MarketSaturation":0.308843144,
     "aCFI":0.4800029711,
     "Rank":644,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.002593,
     "Longitude":-91.6519688914
   },
@@ -7090,7 +7090,7 @@
     "MarketSaturation":0.2534864335,
     "aCFI":0.5147991717,
     "Rank":645,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":39.147271,
     "Longitude":-92.684682
   },
@@ -7101,7 +7101,7 @@
     "MarketSaturation":0.2718962403,
     "aCFI":0.4894615096,
     "Rank":646,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":38.33293915,
     "Longitude":-81.6168852541
   },
@@ -7112,7 +7112,7 @@
     "MarketSaturation":0.3844571595,
     "aCFI":0.4389815546,
     "Rank":647,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.43827405,
     "Longitude":-96.4877200653
   },
@@ -7123,7 +7123,7 @@
     "MarketSaturation":0.2976927147,
     "aCFI":0.4470985401,
     "Rank":648,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.20580445,
     "Longitude":-80.5616585673
   },
@@ -7134,7 +7134,7 @@
     "MarketSaturation":0.2915256941,
     "aCFI":0.4543711942,
     "Rank":649,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":37.767859,
     "Longitude":-122.4006018695
   },
@@ -7145,7 +7145,7 @@
     "MarketSaturation":0.2701755434,
     "aCFI":0.4853250062,
     "Rank":650,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.5105999,
     "Longitude":-81.6024135146
   },
@@ -7156,7 +7156,7 @@
     "MarketSaturation":0.2450332667,
     "aCFI":0.4482490536,
     "Rank":651,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.023532,
     "Longitude":-91.9639669663
   },
@@ -7167,7 +7167,7 @@
     "MarketSaturation":0.3184703663,
     "aCFI":0.4267906968,
     "Rank":652,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.34106865,
     "Longitude":-71.248596303
   },
@@ -7178,7 +7178,7 @@
     "MarketSaturation":0.2797468489,
     "aCFI":0.4728864654,
     "Rank":653,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.0865064,
     "Longitude":-75.2268789042
   },
@@ -7189,7 +7189,7 @@
     "MarketSaturation":0.2779699771,
     "aCFI":0.4713169573,
     "Rank":654,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":36.1720416,
     "Longitude":-82.7592007965
   },
@@ -7200,7 +7200,7 @@
     "MarketSaturation":0.3289719059,
     "aCFI":0.4137293226,
     "Rank":655,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":30.6920656,
     "Longitude":-88.1357039656
   },
@@ -7211,7 +7211,7 @@
     "MarketSaturation":0.3621503324,
     "aCFI":0.4325121998,
     "Rank":656,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.45997815,
     "Longitude":-75.0714688268
   },
@@ -7222,7 +7222,7 @@
     "MarketSaturation":0.2432559807,
     "aCFI":0.455025279,
     "Rank":657,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":47.472649,
     "Longitude":-94.879662
   },
@@ -7233,7 +7233,7 @@
     "MarketSaturation":0.3696300864,
     "aCFI":0.4651205235,
     "Rank":658,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":35.610945,
     "Longitude":-82.442949
   },
@@ -7244,7 +7244,7 @@
     "MarketSaturation":0.345736408,
     "aCFI":0.4345845948,
     "Rank":659,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":38.60293695,
     "Longitude":-95.2638028645
   },
@@ -7255,7 +7255,7 @@
     "MarketSaturation":0.2995260509,
     "aCFI":0.511245704,
     "Rank":660,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":35.47863885,
     "Longitude":-93.465589006
   },
@@ -7266,7 +7266,7 @@
     "MarketSaturation":0.300150215,
     "aCFI":0.4464554803,
     "Rank":661,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.92044325,
     "Longitude":-73.2385253154
   },
@@ -7277,7 +7277,7 @@
     "MarketSaturation":0.2910688531,
     "aCFI":0.4558708924,
     "Rank":662,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.0752884,
     "Longitude":-76.2880885152
   },
@@ -7288,7 +7288,7 @@
     "MarketSaturation":0.3892909018,
     "aCFI":0.4585009962,
     "Rank":663,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":32.3201391,
     "Longitude":-90.1690571965
   },
@@ -7299,7 +7299,7 @@
     "MarketSaturation":0.3784915547,
     "aCFI":0.4871215307,
     "Rank":664,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":43.5610104,
     "Longitude":-116.5658239709
   },
@@ -7310,7 +7310,7 @@
     "MarketSaturation":0.2978968773,
     "aCFI":0.4874724357,
     "Rank":665,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":37.24510425,
     "Longitude":-81.2480023995
   },
@@ -7321,7 +7321,7 @@
     "MarketSaturation":0.2619951679,
     "aCFI":0.4710799764,
     "Rank":666,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":36.381611,
     "Longitude":-86.443832
   },
@@ -7332,7 +7332,7 @@
     "MarketSaturation":0.2698620246,
     "aCFI":0.4365829101,
     "Rank":667,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.268817,
     "Longitude":-78.836652
   },
@@ -7343,7 +7343,7 @@
     "MarketSaturation":0.3493521502,
     "aCFI":0.4559249198,
     "Rank":668,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":34.284962,
     "Longitude":-83.144572
   },
@@ -7354,7 +7354,7 @@
     "MarketSaturation":0.2607703337,
     "aCFI":0.4469846624,
     "Rank":669,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.9191842,
     "Longitude":-85.6902593801
   },
@@ -7365,7 +7365,7 @@
     "MarketSaturation":0.2877137308,
     "aCFI":0.519393444,
     "Rank":670,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.74144325,
     "Longitude":-72.6378498862
   },
@@ -7376,7 +7376,7 @@
     "MarketSaturation":0.3266758057,
     "aCFI":0.4478949063,
     "Rank":671,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.6763764,
     "Longitude":-86.1933296703
   },
@@ -7387,7 +7387,7 @@
     "MarketSaturation":0.2069641588,
     "aCFI":0.4521389777,
     "Rank":672,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":34.001446,
     "Longitude":-81.02266
   },
@@ -7398,7 +7398,7 @@
     "MarketSaturation":0.3317981232,
     "aCFI":0.4502178214,
     "Rank":673,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.6711327,
     "Longitude":-87.494267304
   },
@@ -7409,7 +7409,7 @@
     "MarketSaturation":0.3409091179,
     "aCFI":0.4667431193,
     "Rank":674,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.20800175,
     "Longitude":-84.5563387941
   },
@@ -7420,7 +7420,7 @@
     "MarketSaturation":0.2986068313,
     "aCFI":0.4628966367,
     "Rank":675,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.6689319,
     "Longitude":-87.7834032222
   },
@@ -7431,7 +7431,7 @@
     "MarketSaturation":0.2599251412,
     "aCFI":0.4624342859,
     "Rank":676,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.5870414,
     "Longitude":-75.5196287
   },
@@ -7442,7 +7442,7 @@
     "MarketSaturation":0.2642341593,
     "aCFI":0.5590474665,
     "Rank":677,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":48.839153,
     "Longitude":-99.744853
   },
@@ -7453,7 +7453,7 @@
     "MarketSaturation":0.2438501759,
     "aCFI":0.5073659239,
     "Rank":678,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":32.79311725,
     "Longitude":-96.7770511299
   },
@@ -7464,7 +7464,7 @@
     "MarketSaturation":0.3537238083,
     "aCFI":0.4473842554,
     "Rank":679,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":32.3854781,
     "Longitude":-86.217106099
   },
@@ -7475,7 +7475,7 @@
     "MarketSaturation":0.2895324784,
     "aCFI":0.4600758096,
     "Rank":680,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.8265967,
     "Longitude":-81.3798006191
   },
@@ -7486,7 +7486,7 @@
     "MarketSaturation":0.3276049921,
     "aCFI":0.4647759662,
     "Rank":681,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.56248295,
     "Longitude":-85.8252249556
   },
@@ -7497,7 +7497,7 @@
     "MarketSaturation":0.2557773052,
     "aCFI":0.5127714634,
     "Rank":682,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":35.156746,
     "Longitude":-101.933183
   },
@@ -7508,7 +7508,7 @@
     "MarketSaturation":0.4269403002,
     "aCFI":0.3014811412,
     "Rank":683,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":27.828569,
     "Longitude":-81.525525
   },
@@ -7519,7 +7519,7 @@
     "MarketSaturation":0.3449884796,
     "aCFI":0.4677342135,
     "Rank":684,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":39.41609505,
     "Longitude":-81.4484225136
   },
@@ -7530,7 +7530,7 @@
     "MarketSaturation":0.3080429027,
     "aCFI":0.4435794431,
     "Rank":685,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":38.15402875,
     "Longitude":-79.0681974046
   },
@@ -7541,7 +7541,7 @@
     "MarketSaturation":0.4096257491,
     "aCFI":0.4012941233,
     "Rank":686,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":38.98617775,
     "Longitude":-77.0000230563
   },
@@ -7552,7 +7552,7 @@
     "MarketSaturation":0.3342487275,
     "aCFI":0.4325452434,
     "Rank":687,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.0981853,
     "Longitude":-74.2282000354
   },
@@ -7563,7 +7563,7 @@
     "MarketSaturation":0.3318344015,
     "aCFI":0.432809162,
     "Rank":688,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.66870805,
     "Longitude":-83.1435408514
   },
@@ -7574,7 +7574,7 @@
     "MarketSaturation":0.358908972,
     "aCFI":0.4819535548,
     "Rank":689,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.01177555,
     "Longitude":-85.7600095374
   },
@@ -7585,7 +7585,7 @@
     "MarketSaturation":0.2323938996,
     "aCFI":0.5262480709,
     "Rank":690,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.8467327,
     "Longitude":-78.8127639
   },
@@ -7596,7 +7596,7 @@
     "MarketSaturation":0.3185591159,
     "aCFI":0.4606598853,
     "Rank":691,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":46.9138872,
     "Longitude":-98.6970337076
   },
@@ -7607,7 +7607,7 @@
     "MarketSaturation":0.3186072879,
     "aCFI":0.4809634089,
     "Rank":692,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.61690775,
     "Longitude":-93.925565573
   },
@@ -7618,7 +7618,7 @@
     "MarketSaturation":0.2303502644,
     "aCFI":0.4599034709,
     "Rank":693,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":35.1289696,
     "Longitude":-89.9802249791
   },
@@ -7629,7 +7629,7 @@
     "MarketSaturation":0.2871617688,
     "aCFI":0.4518012985,
     "Rank":694,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":44.4952594,
     "Longitude":-73.1655940184
   },
@@ -7640,7 +7640,7 @@
     "MarketSaturation":0.3217100219,
     "aCFI":0.4543793409,
     "Rank":695,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.50961785,
     "Longitude":-90.6906944229
   },
@@ -7651,7 +7651,7 @@
     "MarketSaturation":0.3021392821,
     "aCFI":0.4669941669,
     "Rank":696,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.41321855,
     "Longitude":-80.3857097541
   },
@@ -7662,7 +7662,7 @@
     "MarketSaturation":0.2927486817,
     "aCFI":0.4310662468,
     "Rank":697,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":47.65775615,
     "Longitude":-122.1917099299
   },
@@ -7673,7 +7673,7 @@
     "MarketSaturation":0.3015352873,
     "aCFI":0.4911871853,
     "Rank":698,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":31.3235321,
     "Longitude":-92.4258488257
   },
@@ -7684,7 +7684,7 @@
     "MarketSaturation":0.387241354,
     "aCFI":0.4555440767,
     "Rank":699,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":35.67128695,
     "Longitude":-80.4856795126
   },
@@ -7695,7 +7695,7 @@
     "MarketSaturation":0.3958508984,
     "aCFI":0.250217649,
     "Rank":700,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":35.20585095,
     "Longitude":-78.069978572
   },
@@ -7706,7 +7706,7 @@
     "MarketSaturation":0.2831850482,
     "aCFI":0.447497222,
     "Rank":701,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":39.9650847,
     "Longitude":-82.9904319566
   },
@@ -7717,7 +7717,7 @@
     "MarketSaturation":0.2621499932,
     "aCFI":0.4383878142,
     "Rank":702,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":39.1088449,
     "Longitude":-84.5138667896
   },
@@ -7728,7 +7728,7 @@
     "MarketSaturation":0.3133352736,
     "aCFI":0.4729215521,
     "Rank":703,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.3553679,
     "Longitude":-71.0737378061
   },
@@ -7739,7 +7739,7 @@
     "MarketSaturation":0.2494258865,
     "aCFI":0.4406576509,
     "Rank":704,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":43.0356884,
     "Longitude":-88.111052
   },
@@ -7750,7 +7750,7 @@
     "MarketSaturation":0.2433311087,
     "aCFI":0.4748252375,
     "Rank":705,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.25937365,
     "Longitude":-95.9754265974
   },
@@ -7761,7 +7761,7 @@
     "MarketSaturation":0.3280887354,
     "aCFI":0.4644657178,
     "Rank":706,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.2683388,
     "Longitude":-89.01867338
   },
@@ -7772,7 +7772,7 @@
     "MarketSaturation":0.2555871957,
     "aCFI":0.4720512477,
     "Rank":707,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":37.8549214,
     "Longitude":-81.2049495451
   },
@@ -7783,7 +7783,7 @@
     "MarketSaturation":0.2547354898,
     "aCFI":0.5284413428,
     "Rank":708,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":39.196175,
     "Longitude":-84.543441
   },
@@ -7794,7 +7794,7 @@
     "MarketSaturation":0.2850805898,
     "aCFI":0.455374732,
     "Rank":709,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":37.67176205,
     "Longitude":-97.3791849299
   },
@@ -7805,7 +7805,7 @@
     "MarketSaturation":0.3227286864,
     "aCFI":0.4148275806,
     "Rank":710,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.8470669,
     "Longitude":-74.8351007155
   },
@@ -7816,7 +7816,7 @@
     "MarketSaturation":0.2872203562,
     "aCFI":0.4550266771,
     "Rank":711,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":43.19591645,
     "Longitude":-88.7400163964
   },
@@ -7827,7 +7827,7 @@
     "MarketSaturation":0.3148660234,
     "aCFI":0.4470925091,
     "Rank":712,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":38.8200917,
     "Longitude":-121.2924903548
   },
@@ -7838,7 +7838,7 @@
     "MarketSaturation":0.3521631219,
     "aCFI":0.4257549207,
     "Rank":713,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":39.9351075,
     "Longitude":-83.8130554487
   },
@@ -7849,7 +7849,7 @@
     "MarketSaturation":0.2551895464,
     "aCFI":0.461740814,
     "Rank":714,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.97580925,
     "Longitude":-72.5109842948
   },
@@ -7860,7 +7860,7 @@
     "MarketSaturation":0.2713582864,
     "aCFI":0.4998264708,
     "Rank":715,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.6480894,
     "Longitude":-80.1452976707
   },
@@ -7871,7 +7871,7 @@
     "MarketSaturation":0.2392292996,
     "aCFI":0.4762273357,
     "Rank":716,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.5118052,
     "Longitude":-74.0129321168
   },
@@ -7882,7 +7882,7 @@
     "MarketSaturation":0.3553043763,
     "aCFI":0.4116386888,
     "Rank":717,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":39.23261,
     "Longitude":-84.544492
   },
@@ -7893,7 +7893,7 @@
     "MarketSaturation":0.3081673711,
     "aCFI":0.4396382119,
     "Rank":718,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.3136471,
     "Longitude":-81.1430681255
   },
@@ -7904,7 +7904,7 @@
     "MarketSaturation":0.2656655074,
     "aCFI":0.4594446857,
     "Rank":719,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":47.49109975,
     "Longitude":-111.2704632891
   },
@@ -7915,7 +7915,7 @@
     "MarketSaturation":0.3052873182,
     "aCFI":0.4834081356,
     "Rank":720,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.7312521,
     "Longitude":-111.855563603
   },
@@ -7926,7 +7926,7 @@
     "MarketSaturation":0.2380659359,
     "aCFI":0.4491827837,
     "Rank":721,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":42.3484696,
     "Longitude":-71.0857540732
   },
@@ -7937,7 +7937,7 @@
     "MarketSaturation":0.3249909956,
     "aCFI":0.5038912297,
     "Rank":722,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":33.19784735,
     "Longitude":-87.5857278562
   },
@@ -7948,7 +7948,7 @@
     "MarketSaturation":0.3301201449,
     "aCFI":0.445321429,
     "Rank":723,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":43.84102355,
     "Longitude":-88.8539386121
   },
@@ -7959,7 +7959,7 @@
     "MarketSaturation":0.2559740375,
     "aCFI":0.5068604447,
     "Rank":724,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":38.9505943,
     "Longitude":-92.3229551
   },
@@ -7970,7 +7970,7 @@
     "MarketSaturation":0.2644800731,
     "aCFI":0.4266802951,
     "Rank":725,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.71083765,
     "Longitude":-83.7081604895
   },
@@ -7981,7 +7981,7 @@
     "MarketSaturation":0.3301082161,
     "aCFI":0.506517238,
     "Rank":726,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":33.4325135,
     "Longitude":-86.114887794
   },
@@ -7992,7 +7992,7 @@
     "MarketSaturation":0.2933972465,
     "aCFI":0.4385982897,
     "Rank":727,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":38.6416544,
     "Longitude":-90.3157007701
   },
@@ -8003,7 +8003,7 @@
     "MarketSaturation":0.2739709594,
     "aCFI":0.4549729209,
     "Rank":728,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":41.2978185,
     "Longitude":-84.35295442
   },
@@ -8014,7 +8014,7 @@
     "MarketSaturation":0.3082922547,
     "aCFI":0.4521177217,
     "Rank":729,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":36.8720992,
     "Longitude":-83.8879236991
   },
@@ -8025,7 +8025,7 @@
     "MarketSaturation":0.2657113342,
     "aCFI":0.47818607,
     "Rank":730,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":43.4141177,
     "Longitude":-71.9753244405
   },
@@ -8036,7 +8036,7 @@
     "MarketSaturation":0.2978447661,
     "aCFI":0.4794782145,
     "Rank":731,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.8965715,
     "Longitude":-83.8996480355
   },
@@ -8047,7 +8047,7 @@
     "MarketSaturation":0.3328418828,
     "aCFI":0.3996762665,
     "Rank":732,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":44.9566921,
     "Longitude":-93.2743300273
   },
@@ -8058,7 +8058,7 @@
     "MarketSaturation":0.2721813119,
     "aCFI":0.4377270442,
     "Rank":733,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":33.8763883,
     "Longitude":-117.8855690297
   },
@@ -8069,7 +8069,7 @@
     "MarketSaturation":0.2607448277,
     "aCFI":0.4467259395,
     "Rank":734,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.045373,
     "Longitude":-76.322598
   },
@@ -8080,7 +8080,7 @@
     "MarketSaturation":0.2958691607,
     "aCFI":0.4480051763,
     "Rank":735,
-    "Classification":"Strong",
+    "Classification":"Severe Risk",
     "Latitude":40.438763,
     "Longitude":-79.9636614148
   },
@@ -8091,7 +8091,7 @@
     "MarketSaturation":0.4084707428,
     "aCFI":0.4080948869,
     "Rank":736,
-    "Classification":"Strong",
+    "Classification":"Critical",
     "Latitude":35.05532985,
     "Longitude":-81.6483922637
   },
@@ -8102,7 +8102,7 @@
     "MarketSaturation":0.3438740813,
     "aCFI":0.4367157648,
     "Rank":737,
-    "Classification":"Strong",
+    "Classification":"Critical",
     "Latitude":40.3627666,
     "Longitude":-75.9117628676
   },
@@ -8113,7 +8113,7 @@
     "MarketSaturation":0.2281093089,
     "aCFI":0.5464785183,
     "Rank":738,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":35.13653725,
     "Longitude":-90.0261677619
   },
@@ -8124,7 +8124,7 @@
     "MarketSaturation":0.3161898097,
     "aCFI":0.4468499901,
     "Rank":739,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":35.4864543,
     "Longitude":-80.282150318
   },
@@ -8135,7 +8135,7 @@
     "MarketSaturation":0.2934042213,
     "aCFI":0.493969451,
     "Rank":740,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":32.588298,
     "Longitude":-95.205319
   },
@@ -8146,7 +8146,7 @@
     "MarketSaturation":0.3306427956,
     "aCFI":0.4707473445,
     "Rank":741,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":39.2778813,
     "Longitude":-94.90448802
   },
@@ -8157,7 +8157,7 @@
     "MarketSaturation":0.3318850268,
     "aCFI":0.4791408124,
     "Rank":742,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":34.01046295,
     "Longitude":-81.0199355569
   },
@@ -8168,7 +8168,7 @@
     "MarketSaturation":0.2960890995,
     "aCFI":0.4426366972,
     "Rank":743,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":40.796638,
     "Longitude":-74.481598
   },
@@ -8179,7 +8179,7 @@
     "MarketSaturation":0.237459358,
     "aCFI":0.4867923697,
     "Rank":744,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":37.557603,
     "Longitude":-83.381557
   },
@@ -8190,7 +8190,7 @@
     "MarketSaturation":0.2857693734,
     "aCFI":0.4354225878,
     "Rank":745,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":40.736881,
     "Longitude":-73.816681
   },
@@ -8201,7 +8201,7 @@
     "MarketSaturation":0.2288656248,
     "aCFI":0.4599060113,
     "Rank":746,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":40.79519845,
     "Longitude":-74.193824556
   },
@@ -8212,7 +8212,7 @@
     "MarketSaturation":0.2634613185,
     "aCFI":0.5295506884,
     "Rank":747,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":33.9383314,
     "Longitude":-80.3470005188
   },
@@ -8223,7 +8223,7 @@
     "MarketSaturation":0.2988398969,
     "aCFI":0.4477795503,
     "Rank":748,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.52670705,
     "Longitude":-96.4283595401
   },
@@ -8234,7 +8234,7 @@
     "MarketSaturation":0.2766409547,
     "aCFI":0.3447421046,
     "Rank":749,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":38.8788275,
     "Longitude":-82.3760292301
   },
@@ -8245,7 +8245,7 @@
     "MarketSaturation":0.3007334645,
     "aCFI":0.4702761696,
     "Rank":750,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":31.77219555,
     "Longitude":-84.7957087072
   },
@@ -8256,7 +8256,7 @@
     "MarketSaturation":0.2705937591,
     "aCFI":0.4599536372,
     "Rank":751,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":35.77076885,
     "Longitude":-78.6369792327
   },
@@ -8267,7 +8267,7 @@
     "MarketSaturation":0.2311639417,
     "aCFI":0.4319303796,
     "Rank":752,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":40.78028965,
     "Longitude":-89.682965498
   },
@@ -8278,7 +8278,7 @@
     "MarketSaturation":0.3886134181,
     "aCFI":0.3835184785,
     "Rank":753,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":34.7407164,
     "Longitude":-79.4814373
   },
@@ -8289,7 +8289,7 @@
     "MarketSaturation":0.2612607404,
     "aCFI":0.4322768633,
     "Rank":754,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.75431465,
     "Longitude":-84.638511568
   },
@@ -8300,7 +8300,7 @@
     "MarketSaturation":0.3115808458,
     "aCFI":0.4503623678,
     "Rank":755,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":38.8629209,
     "Longitude":-91.9488090968
   },
@@ -8311,7 +8311,7 @@
     "MarketSaturation":0.2746380106,
     "aCFI":0.4658222558,
     "Rank":756,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":38.24240815,
     "Longitude":-85.7585619211
   },
@@ -8322,7 +8322,7 @@
     "MarketSaturation":0.2736673239,
     "aCFI":0.5125600736,
     "Rank":757,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":36.4340869,
     "Longitude":-77.096500672
   },
@@ -8333,7 +8333,7 @@
     "MarketSaturation":0.2767282732,
     "aCFI":0.4937721658,
     "Rank":758,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.0944203,
     "Longitude":-76.8155382454
   },
@@ -8344,7 +8344,7 @@
     "MarketSaturation":0.2645770604,
     "aCFI":0.5243484176,
     "Rank":759,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":34.7762325,
     "Longitude":-89.4473184657
   },
@@ -8355,7 +8355,7 @@
     "MarketSaturation":0.2888951228,
     "aCFI":0.4479444397,
     "Rank":760,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":36.5877694,
     "Longitude":-82.1598014152
   },
@@ -8366,7 +8366,7 @@
     "MarketSaturation":0.2327733127,
     "aCFI":0.4478851469,
     "Rank":761,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":37.676139,
     "Longitude":-113.058279
   },
@@ -8377,7 +8377,7 @@
     "MarketSaturation":0.2724558753,
     "aCFI":0.4789510758,
     "Rank":762,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":38.63708455,
     "Longitude":-90.2609963703
   },
@@ -8388,7 +8388,7 @@
     "MarketSaturation":0.2504832444,
     "aCFI":0.4709583947,
     "Rank":763,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":36.3044141,
     "Longitude":-76.2163649146
   },
@@ -8399,7 +8399,7 @@
     "MarketSaturation":0.2945265438,
     "aCFI":0.4465165553,
     "Rank":764,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":30.342791,
     "Longitude":-81.692947
   },
@@ -8410,7 +8410,7 @@
     "MarketSaturation":0.3010434773,
     "aCFI":0.4326315652,
     "Rank":765,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":41.7169934,
     "Longitude":-81.251841318
   },
@@ -8421,7 +8421,7 @@
     "MarketSaturation":0.2397386552,
     "aCFI":0.4626547086,
     "Rank":766,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":41.83676195,
     "Longitude":-87.6291654
   },
@@ -8432,7 +8432,7 @@
     "MarketSaturation":0.2786629435,
     "aCFI":0.4829928205,
     "Rank":767,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":36.93142245,
     "Longitude":-80.0281305891
   },
@@ -8443,7 +8443,7 @@
     "MarketSaturation":0.2490587498,
     "aCFI":0.4618099266,
     "Rank":768,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":30.40067515,
     "Longitude":-91.1092466603
   },
@@ -8454,7 +8454,7 @@
     "MarketSaturation":0.2831285907,
     "aCFI":0.4913363361,
     "Rank":769,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.055796,
     "Longitude":-72.5841918085
   },
@@ -8465,7 +8465,7 @@
     "MarketSaturation":0.2352407418,
     "aCFI":0.5361233275,
     "Rank":770,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":25.79224,
     "Longitude":-80.13485
   },
@@ -8476,7 +8476,7 @@
     "MarketSaturation":0.257725813,
     "aCFI":0.4244248819,
     "Rank":771,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":38.5702492,
     "Longitude":-122.4404486
   },
@@ -8487,7 +8487,7 @@
     "MarketSaturation":0.2457833807,
     "aCFI":0.4698689911,
     "Rank":772,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":43.615791,
     "Longitude":-116.201576
   },
@@ -8498,7 +8498,7 @@
     "MarketSaturation":0.3108683465,
     "aCFI":0.4644397614,
     "Rank":773,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":38.77624315,
     "Longitude":-95.1793950073
   },
@@ -8509,7 +8509,7 @@
     "MarketSaturation":0.2596342536,
     "aCFI":0.5213805624,
     "Rank":774,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":39.28959765,
     "Longitude":-89.8715771214
   },
@@ -8520,7 +8520,7 @@
     "MarketSaturation":0.2263483732,
     "aCFI":0.4190728875,
     "Rank":775,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":28.294701,
     "Longitude":-81.402527
   },
@@ -8531,7 +8531,7 @@
     "MarketSaturation":0.3236820656,
     "aCFI":0.4503384755,
     "Rank":776,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":36.72601005,
     "Longitude":-119.7341901041
   },
@@ -8542,7 +8542,7 @@
     "MarketSaturation":0.2660200716,
     "aCFI":0.4501540224,
     "Rank":777,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.64943435,
     "Longitude":-73.7766119749
   },
@@ -8553,7 +8553,7 @@
     "MarketSaturation":0.2265501682,
     "aCFI":0.4262726531,
     "Rank":778,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":45.5062805,
     "Longitude":-122.5933849442
   },
@@ -8564,7 +8564,7 @@
     "MarketSaturation":0.2375396654,
     "aCFI":0.3862546607,
     "Rank":779,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":37.313171,
     "Longitude":-89.552422
   },
@@ -8575,7 +8575,7 @@
     "MarketSaturation":0.2683904755,
     "aCFI":0.4815758553,
     "Rank":780,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":35.6282633,
     "Longitude":-88.8066916668
   },
@@ -8586,7 +8586,7 @@
     "MarketSaturation":0.2443461352,
     "aCFI":0.4677276929,
     "Rank":781,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":39.1126406,
     "Longitude":-94.6509576554
   },
@@ -8597,7 +8597,7 @@
     "MarketSaturation":0.2425906944,
     "aCFI":0.433533073,
     "Rank":782,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.65769465,
     "Longitude":-73.8065615636
   },
@@ -8608,7 +8608,7 @@
     "MarketSaturation":0.2584698915,
     "aCFI":0.4222789682,
     "Rank":783,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":46.5792721,
     "Longitude":-90.874870386
   },
@@ -8619,7 +8619,7 @@
     "MarketSaturation":0.265937479,
     "aCFI":0.4587816311,
     "Rank":784,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":43.659222,
     "Longitude":-70.256523
   },
@@ -8630,7 +8630,7 @@
     "MarketSaturation":0.2348644935,
     "aCFI":0.5278347352,
     "Rank":785,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":32.844252,
     "Longitude":-97.143237
   },
@@ -8641,7 +8641,7 @@
     "MarketSaturation":0.2356091243,
     "aCFI":0.4943321578,
     "Rank":786,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":38.837399,
     "Longitude":-94.5467831873
   },
@@ -8652,7 +8652,7 @@
     "MarketSaturation":0.2859478321,
     "aCFI":0.4956150125,
     "Rank":787,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":39.18900875,
     "Longitude":-94.6725289415
   },
@@ -8663,7 +8663,7 @@
     "MarketSaturation":0.3077126397,
     "aCFI":0.4366025495,
     "Rank":788,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":37.24924525,
     "Longitude":-96.9740191133
   },
@@ -8674,7 +8674,7 @@
     "MarketSaturation":0.2725542115,
     "aCFI":0.4708100512,
     "Rank":789,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":40.19868565,
     "Longitude":-75.2354905242
   },
@@ -8685,7 +8685,7 @@
     "MarketSaturation":0.3339213925,
     "aCFI":0.4529912574,
     "Rank":790,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.11339535,
     "Longitude":-72.5572856442
   },
@@ -8696,7 +8696,7 @@
     "MarketSaturation":0.2373143747,
     "aCFI":0.5147871746,
     "Rank":791,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":48.5523,
     "Longitude":-113.008786746
   },
@@ -8707,7 +8707,7 @@
     "MarketSaturation":0.2471582707,
     "aCFI":0.4403964331,
     "Rank":792,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":36.052662,
     "Longitude":-90.505211
   },
@@ -8718,7 +8718,7 @@
     "MarketSaturation":0.283817098,
     "aCFI":0.4333166886,
     "Rank":793,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":38.5810524,
     "Longitude":-97.6720972858
   },
@@ -8729,7 +8729,7 @@
     "MarketSaturation":0.2495057595,
     "aCFI":0.4450744518,
     "Rank":794,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.552158,
     "Longitude":-70.882683
   },
@@ -8740,7 +8740,7 @@
     "MarketSaturation":0.3824456151,
     "aCFI":0.4688641478,
     "Rank":795,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":30.4187934,
     "Longitude":-97.8384763659
   },
@@ -8751,7 +8751,7 @@
     "MarketSaturation":0.1749466091,
     "aCFI":0.4781994283,
     "Rank":796,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":47.64886755,
     "Longitude":-122.3619664219
   },
@@ -8762,7 +8762,7 @@
     "MarketSaturation":0.2605296676,
     "aCFI":0.4480067992,
     "Rank":797,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.7793366,
     "Longitude":-72.0558917
   },
@@ -8773,7 +8773,7 @@
     "MarketSaturation":0.2291771994,
     "aCFI":0.4523745984,
     "Rank":798,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":44.85554755,
     "Longitude":-88.6245843192
   },
@@ -8784,7 +8784,7 @@
     "MarketSaturation":0.2746445699,
     "aCFI":0.4304882474,
     "Rank":799,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.813282,
     "Longitude":-78.727492
   },
@@ -8795,7 +8795,7 @@
     "MarketSaturation":0.2822223078,
     "aCFI":0.4474005905,
     "Rank":800,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":38.2199775,
     "Longitude":-98.2091224544
   },
@@ -8806,7 +8806,7 @@
     "MarketSaturation":0.224481667,
     "aCFI":0.4845817787,
     "Rank":801,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":33.48109865,
     "Longitude":-86.9091101544
   },
@@ -8817,7 +8817,7 @@
     "MarketSaturation":0.2839458601,
     "aCFI":0.4373524894,
     "Rank":802,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.346054,
     "Longitude":-71.070114
   },
@@ -8828,7 +8828,7 @@
     "MarketSaturation":0.2341738526,
     "aCFI":0.4850558811,
     "Rank":803,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":29.91198085,
     "Longitude":-89.9962939517
   },
@@ -8839,7 +8839,7 @@
     "MarketSaturation":0.3783051074,
     "aCFI":0.2553087017,
     "Rank":804,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.441463,
     "Longitude":-84.92437
   },
@@ -8850,7 +8850,7 @@
     "MarketSaturation":0.2678463937,
     "aCFI":0.4525213224,
     "Rank":805,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":37.7683615,
     "Longitude":-87.1117779967
   },
@@ -8861,7 +8861,7 @@
     "MarketSaturation":0.2441696954,
     "aCFI":0.4234192504,
     "Rank":806,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":39.097061,
     "Longitude":-84.858938
   },
@@ -8872,7 +8872,7 @@
     "MarketSaturation":0.2809147258,
     "aCFI":0.4448054152,
     "Rank":807,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":33.46943155,
     "Longitude":-81.9956032269
   },
@@ -8883,7 +8883,7 @@
     "MarketSaturation":0.2449545085,
     "aCFI":0.4355293808,
     "Rank":808,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":21.296548,
     "Longitude":-157.821218
   },
@@ -8894,7 +8894,7 @@
     "MarketSaturation":0.237141031,
     "aCFI":0.4493382224,
     "Rank":809,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":44.8504407,
     "Longitude":-93.3118390734
   },
@@ -8905,7 +8905,7 @@
     "MarketSaturation":0.2303030363,
     "aCFI":0.4449914886,
     "Rank":810,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":41.8293566,
     "Longitude":-103.6757197
   },
@@ -8916,7 +8916,7 @@
     "MarketSaturation":0.2660011125,
     "aCFI":0.449878394,
     "Rank":811,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":35.338274,
     "Longitude":-97.488365
   },
@@ -8927,7 +8927,7 @@
     "MarketSaturation":0.241365842,
     "aCFI":0.5279549708,
     "Rank":812,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":39.6118927,
     "Longitude":-82.9062567268
   },
@@ -8938,7 +8938,7 @@
     "MarketSaturation":0.2641872061,
     "aCFI":0.4445405672,
     "Rank":813,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":35.113294,
     "Longitude":-90.0304
   },
@@ -8949,7 +8949,7 @@
     "MarketSaturation":0.2241614963,
     "aCFI":0.4962967977,
     "Rank":814,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":39.73271775,
     "Longitude":-91.3910011456
   },
@@ -8960,7 +8960,7 @@
     "MarketSaturation":0.2331728692,
     "aCFI":0.5525156775,
     "Rank":815,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":34.04497585,
     "Longitude":-118.0830001951
   },
@@ -8971,7 +8971,7 @@
     "MarketSaturation":0.251091096,
     "aCFI":0.4429407481,
     "Rank":816,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":28.19391805,
     "Longitude":-82.6783596074
   },
@@ -8982,7 +8982,7 @@
     "MarketSaturation":0.2435556815,
     "aCFI":0.4305892325,
     "Rank":817,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":40.01407945,
     "Longitude":-105.2669594376
   },
@@ -8993,7 +8993,7 @@
     "MarketSaturation":0.2503680183,
     "aCFI":0.3773504813,
     "Rank":818,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":33.51618545,
     "Longitude":-86.8558469685
   },
@@ -9004,7 +9004,7 @@
     "MarketSaturation":0.2350794571,
     "aCFI":0.44639908,
     "Rank":819,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.2719128,
     "Longitude":-71.0106364739
   },
@@ -9015,7 +9015,7 @@
     "MarketSaturation":0.2335401624,
     "aCFI":0.4545285491,
     "Rank":820,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":38.9322187,
     "Longitude":-94.6797433384
   },
@@ -9026,7 +9026,7 @@
     "MarketSaturation":0.2401666422,
     "aCFI":0.4496556537,
     "Rank":821,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":43.0226231,
     "Longitude":-85.5921898809
   },
@@ -9037,7 +9037,7 @@
     "MarketSaturation":0.2977140284,
     "aCFI":0.3979461152,
     "Rank":822,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":35.7764261,
     "Longitude":-91.6242393952
   },
@@ -9048,7 +9048,7 @@
     "MarketSaturation":0.2430131218,
     "aCFI":0.3987060065,
     "Rank":823,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":33.749291,
     "Longitude":-84.414452
   },
@@ -9059,7 +9059,7 @@
     "MarketSaturation":0.2263799445,
     "aCFI":0.4578471245,
     "Rank":824,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":39.3960492,
     "Longitude":-92.4271758356
   },
@@ -9070,7 +9070,7 @@
     "MarketSaturation":0.242353864,
     "aCFI":0.4709461706,
     "Rank":825,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":40.692532,
     "Longitude":-73.990997
   },
@@ -9081,7 +9081,7 @@
     "MarketSaturation":0.4076855094,
     "aCFI":0.2860029632,
     "Rank":826,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":38.95833745,
     "Longitude":-92.325944347
   },
@@ -9092,7 +9092,7 @@
     "MarketSaturation":0.2320577657,
     "aCFI":0.4836778006,
     "Rank":827,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":33.92682765,
     "Longitude":-118.2423498963
   },
@@ -9103,7 +9103,7 @@
     "MarketSaturation":0.2295405681,
     "aCFI":0.4329864026,
     "Rank":828,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":39.9454895,
     "Longitude":-75.1664824705
   },
@@ -9114,7 +9114,7 @@
     "MarketSaturation":0.230692729,
     "aCFI":0.4446128428,
     "Rank":829,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":36.2022777,
     "Longitude":-86.7902765
   },
@@ -9125,7 +9125,7 @@
     "MarketSaturation":0.3514200429,
     "aCFI":0.3990315839,
     "Rank":830,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":32.3746078,
     "Longitude":-95.3124532495
   },
@@ -9136,7 +9136,7 @@
     "MarketSaturation":0.2856372817,
     "aCFI":0.4183470069,
     "Rank":831,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.83958545,
     "Longitude":-91.7933042902
   },
@@ -9147,7 +9147,7 @@
     "MarketSaturation":0.2319363201,
     "aCFI":0.4597035073,
     "Rank":832,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":44.0336731,
     "Longitude":-123.1538677854
   },
@@ -9158,7 +9158,7 @@
     "MarketSaturation":0.2302317278,
     "aCFI":0.4446821928,
     "Rank":833,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":44.65177415,
     "Longitude":-72.3823322162
   },
@@ -9169,7 +9169,7 @@
     "MarketSaturation":0.240029954,
     "aCFI":0.2619100241,
     "Rank":834,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":39.203769,
     "Longitude":-84.672154
   },
@@ -9180,7 +9180,7 @@
     "MarketSaturation":0.2497236742,
     "aCFI":0.4106167591,
     "Rank":835,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":35.144546,
     "Longitude":-90.0493029283
   },
@@ -9191,7 +9191,7 @@
     "MarketSaturation":0.2339093663,
     "aCFI":0.4438486924,
     "Rank":836,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":35.747867,
     "Longitude":-86.836774
   },
@@ -9202,7 +9202,7 @@
     "MarketSaturation":0.2145482175,
     "aCFI":0.4867553584,
     "Rank":837,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":36.0675102,
     "Longitude":-79.7796382234
   },
@@ -9213,7 +9213,7 @@
     "MarketSaturation":0.2477785251,
     "aCFI":0.4654013894,
     "Rank":838,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":41.97235065,
     "Longitude":-87.6633645007
   },
@@ -9224,7 +9224,7 @@
     "MarketSaturation":0.2329599703,
     "aCFI":0.4596753987,
     "Rank":839,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":34.7349723,
     "Longitude":-92.2898356068
   },
@@ -9235,7 +9235,7 @@
     "MarketSaturation":0.2228973261,
     "aCFI":0.3646543747,
     "Rank":840,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":42.7634537,
     "Longitude":-71.0790020909
   },
@@ -9246,7 +9246,7 @@
     "MarketSaturation":0.2270435131,
     "aCFI":0.394394721,
     "Rank":841,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":26.61136205,
     "Longitude":-81.821740797
   },
@@ -9257,7 +9257,7 @@
     "MarketSaturation":0.2413761851,
     "aCFI":0.3184100486,
     "Rank":842,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":34.9134907,
     "Longitude":-81.0431600315
   },
@@ -9268,7 +9268,7 @@
     "MarketSaturation":0.2393279131,
     "aCFI":0.2894669526,
     "Rank":843,
-    "Classification":"Elite",
+    "Classification":"Critical",
     "Latitude":40.8152756,
     "Longitude":-73.9153259
   }
