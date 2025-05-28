@@ -12,6 +12,8 @@ fetch("data.json")
     data.forEach(function(school) {
       const popup = `
         <strong>${school.University}</strong><br>
+        Rank: ${school.Rank}<br>
+        Classification: ${school.Classification}<br>
         CSI Percentile: ${school.CSI}%<br>
         Academic Efficiency: <span class='locked' onclick='alert("Upgrade to Tier 2 to unlock this data.")'>${school.AcademicEfficiency}%</span><br>
         Market Saturation: <span class='locked' onclick='alert("Upgrade to Tier 2 to unlock this data.")'>${school.MarketSaturation}%</span><br>
