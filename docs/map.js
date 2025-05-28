@@ -40,18 +40,15 @@ fetch('data.json')
       const popup = `
         <strong>${school.University}</strong><br>
         Rank: ${school.Rank}<br>
-        Classification: ${school.Classification}<br>
-        <br>
+        Classification: ${school.Classification}<br><br>
         CSI Percentile: ${(school.CSI * 100).toFixed(2)}%<br>
-        Academic Efficiency: 🔒 <em>Upgrade to Tier 2 to access</em><br>
-        Market Saturation: 🔒 <em>Upgrade to Tier 2 to access</em><br>
-        aCFI: 🔒 <em>Upgrade to Tier 2 to access</em><br>
-        <br>
+        Academic Efficiency: <a href="#" onclick="alert('Upgrade your subscription to view full academic efficiency details.'); return false;">${(school.AcademicEfficiency * 100).toFixed(2)}%</a><br>
+        Market Saturation: <a href="#" onclick="alert('Upgrade your subscription to view full market saturation details.'); return false;">${(school.MarketSaturation * 100).toFixed(2)}%</a><br>
+        aCFI: <a href="#" onclick="alert('Upgrade your subscription to view full financial data (aCFI).'); return false;">${(school.aCFI * 100).toFixed(2)}%</a><br><br>
         CSI is calculated using:<br>
         Financial Health (40.02%)<br>
         Market Saturation (39.99%)<br>
-        Academic Efficiency (19.99%)<br>
-        <br>
+        Academic Efficiency (19.99%)<br><br>
         <em>Data compiled April 2025.</em>
       `;
 
