@@ -5,9 +5,11 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 fetch("data.json")
-  .then(response => response.json())
-  .then(data => {
-    data.forEach(school => {
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(data) {
+    data.forEach(function(school) {
       const popup = `
         <strong>${school.University}</strong><br>
         CSI Percentile: ${school.CSI}%<br>
@@ -23,7 +25,7 @@ fetch("data.json")
         .bindPopup(popup);
     });
   })
-  .catch(error => {
+  .catch(function(error) {
     console.error("Error loading map data:", error);
     alert("Failed to load map data. Please try again later.");
   });
